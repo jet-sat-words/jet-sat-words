@@ -1888,11 +1888,10 @@
   "xylophone": {
     "us": "/ˈzaɪləˌfoʊn/",
     "syn": [
-      "marimba",
-      "vibraphone"
+      "marimba"
     ],
     "ant": [
-      "violin"
+      "wind instrument"
     ],
     "ex": [
       {
@@ -1908,7 +1907,7 @@
       "xylophonist (n.)"
     ],
     "tip": "希腊语 xylo-（木头）+ phon-（声音），即用木头发出声音的敲击乐器。",
-    "note": "无严格反义词。marimba 与 vibraphone 只是相近的条形敲击乐器，不是严格同义词；violin 也只是不同类乐器的对照。"
+    "note": "无严格反义词。marimba 是相近的条形敲击乐器，不是严格同义词。wind instrument 只表示另一类乐器。不要把 violin 当成反义词。"
   },
   "yearn": {
     "us": "/ˈjɝn/",

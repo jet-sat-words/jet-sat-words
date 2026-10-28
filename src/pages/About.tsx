@@ -14,9 +14,9 @@ export function About() {
           <p className="eyebrow">关于 {PRODUCT_NAME}</p>
           <h1 className="display">{PRODUCT_NAME}</h1>
           <p className="lede">
-            {PRODUCT_NAME} 收录 {atlas.topics.length} 个 List、{atlas.count.toLocaleString()} 个 SAT 核心词。每个词有音标、中文释义和英文释义。按 List 浏览，在星图里看见整本词书，再用 FSRS 安排复习。
+            {PRODUCT_NAME} 收录 {atlas.topics.length} 个 List、{atlas.count.toLocaleString()} 个 SAT 核心词。每个词有美式和英式音标、中英释义、SAT 例句、搭配、近义反义、词根和易混说明。按 List 浏览，在星图里看见整本词书，再用 FSRS 安排复习。
           </p>
-          <p className="lede">进度存在这台设备的浏览器里，不需要注册。发音在没有录音时使用设备语音。</p>
+          <p className="lede">进度存在这台设备的浏览器里，不需要注册。点击美式发音时，使用这台设备的英文语音，不下载录音文件。</p>
           <div className="about-actions">
             <a className="btn btn-primary" href={REPO_URL} target="_blank" rel="noreferrer">
               <Github size={18} /> 在 GitHub 上查看

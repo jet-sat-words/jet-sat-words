@@ -136,7 +136,7 @@ export function Me() {
               ))}
             </div>
           </Field>
-          <Field label="发音">
+          <Field label="发音" hint="默认美式。没有录音时，用这台设备的英文语音朗读。">
             <div className="segmented">
               <button className={settings.accent === "uk" ? "is-on" : ""} onClick={() => set({ accent: "uk" })}>
                 英式

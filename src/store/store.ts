@@ -64,7 +64,7 @@ export interface Settings {
 }
 
 export const defaultSettings: Settings = {
-  accent: "uk",
+  accent: "us",
   autoplay: true,
   dailyNew: 10,
   retention: 0.9,

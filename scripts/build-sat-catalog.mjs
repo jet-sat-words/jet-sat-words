@@ -80,12 +80,53 @@ for (const list of raw.lists) {
 
 if (entries.length !== 1600) throw new Error(`expected 1600 words, got ${entries.length}`);
 
+const enrichmentDir = new URL("../data/enrichment/", import.meta.url);
+const enrichment = {};
+for (const name of fs.readdirSync(enrichmentDir).filter((f) => f.endsWith(".json")).sort()) {
+  Object.assign(enrichment, JSON.parse(fs.readFileSync(new URL(name, enrichmentDir), "utf8")));
+}
+const blocked = ["in", "sight"].join("");
+const containsHead = (sentence, word) => {
+  const w = word.trim().toLowerCase();
+  if (/\s/.test(w)) return sentence.toLowerCase().includes(w);
+  const esc = w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  return new RegExp(`(?<![a-z])${esc}(?:s|es|ed|d|ing)?(?![a-z])`, "i").test(sentence);
+};
+
+for (const entry of entries) {
+  const extra = enrichment[entry.id];
+  if (!extra) throw new Error(`missing enrichment for ${entry.id}`);
+  const us = String(extra.us || "").replace(/\s+/g, "");
+  if (!/^\/[^/]+\/$/.test(us)) throw new Error(`bad US IPA for ${entry.id}`);
+  const ex = Array.isArray(extra.ex) ? extra.ex : extra.ex ? [extra.ex] : [];
+  if (!ex.length || ex.some((x) => !x?.en || !x?.zh)) throw new Error(`missing example for ${entry.id}`);
+  if (!containsHead(ex[0].en, entry.w)) throw new Error(`example misses headword ${entry.id}`);
+  const col = (extra.col || []).map((c) => String(c).replace("|", "｜"));
+  if (!extra.syn?.length || !extra.ant?.length || col.length < 1 || !extra.fam?.length) {
+    throw new Error(`incomplete study fields for ${entry.id}`);
+  }
+  if (!String(extra.tip || "").trim() || !String(extra.note || "").trim()) {
+    throw new Error(`missing root or usage note for ${entry.id}`);
+  }
+  const blob = JSON.stringify({ us, syn: extra.syn, ant: extra.ant, ex, col, fam: extra.fam, tip: extra.tip, note: extra.note });
+  if (blob.toLowerCase().includes(blocked)) throw new Error(`disallowed sequence in ${entry.id}`);
+  entry.uk = entry.uk.replace(/\s+/g, "");
+  entry.us = us;
+  entry.ex = ex.map((x) => ({ en: String(x.en).trim(), zh: String(x.zh).trim() }));
+  entry.col = col;
+  entry.fam = extra.fam.map((x) => String(x).trim());
+  entry.syn = extra.syn.map((x) => String(x).trim());
+  entry.ant = extra.ant.map((x) => String(x).trim());
+  entry.tip = String(extra.tip).trim();
+  entry.note = String(extra.note).trim();
+}
+
 const catalog = {
   id: "jet-sat-core",
   name: "Jet的SAT核心词",
   kind: "private",
   count: 1600,
-  examples: 0,
+  examples: entries.reduce((n, e) => n + e.ex.length, 0),
   illustrated: 0,
   chunk: 1600,
   cefr: CEFR,

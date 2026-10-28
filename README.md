@@ -2,7 +2,7 @@
 
 160 个 List、1600 个 SAT 核心词。可以搜索和按 List 浏览，在星图里看见整本词书，并用 FSRS 做间隔重复。进度只存在浏览器里，不需要注册。
 
-每个词条包含词头、音标、中文释义和英文释义。当前版本没有配图和录音，听发音时使用设备语音。
+每个词条包含英式与美式音标、中文和英文释义、SAT 风格例句与中译、搭配、词族、近义词、反义词、词根或构词说明，以及易混辨析。没有配图，也不打包录音。点击「美」时，浏览器用本机英文语音朗读（`en-US`）。
 
 界面与学习流程改编自 [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)（MIT，版权声明见 `LICENSE`）。本仓库地址：[jet-sat-words/jet-sat-words](https://github.com/jet-sat-words/jet-sat-words)。
 

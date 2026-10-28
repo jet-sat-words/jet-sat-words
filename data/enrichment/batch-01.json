@@ -106,28 +106,32 @@
   "scale": {
     "us": "/skeɪl/",
     "syn": [
-      "squama",
-      "lamella"
+      "flake",
+      "extent"
     ],
     "ant": [
-      "interior"
+      "smooth surface"
     ],
     "ex": [
       {
         "en": "Each scale on the fossil fish remained visible, letting researchers estimate how the animal grew.",
         "zh": "这条鱼化石上的每一片鳞都还看得见，研究者得以估计它生前如何生长。"
+      },
+      {
+        "en": "On a national scale, the drought reduced harvests far beyond any single valley.",
+        "zh": "从全国范围看，这场干旱使收成的下降远远超出任何一个山谷。"
       }
     ],
     "col": [
       "fish scale｜鱼鳞",
-      "measurement scale｜测量尺度"
+      "on a national scale｜在全国范围内"
     ],
     "fam": [
       "scaly (adj.)",
       "rescale (v.)"
     ],
-    "tip": "构词：鳞片义来自日耳曼语“壳、鳞”；尺度义来自拉丁语 scala（梯子）。两义不同源。",
-    "note": "无严格反义词。squama、lamella 只接近“鳞片”这一小片覆盖物，interior 只是与表面相对的内部。尺度义的 gauge、yardstick 不能用来替换鱼鳞，动词“攀爬”也是另一个词。"
+    "tip": "构词：鳞片义来自日耳曼语“壳、鳞”；尺度义来自拉丁语 scala（梯子、阶梯）。两义不同源，不要互相套用。",
+    "note": "无严格反义词。鳞片义可与光滑表面对照；尺度义没有词义相反的词，只是范围大小。不要把 gauge 用来替换鱼鳞，也不要把动词“攀爬”当成这个名词。"
   },
   "utility": {
     "us": "/juˈtɪləti/",
@@ -2620,7 +2624,7 @@
       "chambered nautilus"
     ],
     "ant": [
-      "argonaut"
+      "shell-less mollusk"
     ],
     "ex": [
       {
@@ -2636,7 +2640,7 @@
       "nautiloid (n.)"
     ],
     "tip": "词根 naut-（船，希腊语 naus）+ -ilus。古人以为它张壳当帆。",
-    "note": "无严格反义词，也无更宽的同义词。chambered nautilus 就是有分室外壳的那一类。argonaut（船蛸）虽被叫做纸鹦鹉螺，却是章鱼的近亲，不是 nautilus。"
+    "note": "无严格反义词。它是有分室外壳的头足类。argonaut（船蛸）常被叫做纸鹦鹉螺，其实是章鱼的近亲，不要当成同一种动物，也不要记成反义词。"
   },
   "septum": {
     "us": "/ˈsɛptəm/",
@@ -2667,10 +2671,10 @@
   "isotope": {
     "us": "/ˈaɪsətoʊp/",
     "syn": [
-      "isotopic species"
+      "nuclear form"
     ],
     "ant": [
-      "isomer"
+      "different element"
     ],
     "ex": [
       {
@@ -2687,7 +2691,7 @@
       "isotopically (adv.)"
     ],
     "tip": "词根 iso-（相同，希腊语 isos）+ top-（位置，希腊语 topos）。",
-    "note": "无严格反义词，也没有另一个独立单词。isotopic species 只是“同位素核素”的说法。isomer 是分子结构不同，nuclide 则是任何核素，二者都不能替换 isotope。"
+    "note": "无严格反义词。同位素是同一元素中中子数不同的核素，所以对照是另一种元素，而不是另一个同位素。isomer 是分子结构不同，nuclide 是任何核素，都不要记成反义词。"
   },
   "paleontologist": {
     "us": "/ˌpeɪliənˈtɑlədʒɪst/",
@@ -3846,10 +3850,10 @@
   "glucosinolate": {
     "us": "/ˌɡlukoʊˈsɪnəˌleɪt/",
     "syn": [
-      "mustard oil glycoside"
+      "mustard-oil glycoside"
     ],
     "ant": [
-      "isothiocyanate"
+      "simple sugar"
     ],
     "ex": [
       {
@@ -3866,7 +3870,7 @@
       "glycoside (n.)"
     ],
     "tip": "构词：gluco-（葡萄糖）可以确定，-ate 表示阴离子。中间与芥末油有关，sin- 或 sinol 的精确来源各家说法并不完全一致。",
-    "note": "无严格反义词。mustard oil glycoside 是较旧的类名。isothiocyanate 是它水解后的芥子油，是产物不是反义。glycoside 是更大的糖苷类，不能替换。"
+    "note": "无严格反义词。它是含硫的糖苷。simple sugar 只是不含这种配基的糖，用来对照。isothiocyanate 是它被碾碎后水解出的芥子油，是产物，不要记成反义。"
   },
   "excavate": {
     "us": "/ˈɛkskəveɪt/",
