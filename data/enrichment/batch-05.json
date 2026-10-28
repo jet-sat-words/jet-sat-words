@@ -1,0 +1,4721 @@
+{
+  "reign": {
+    "us": "/reɪn/",
+    "syn": [
+      "rule",
+      "govern"
+    ],
+    "ant": [
+      "submit"
+    ],
+    "ex": {
+      "en": "For nearly four decades the dynasty continued to reign over a restless empire whose borders shifted with every war.",
+      "zh": "将近四十年里，这个王朝继续统治着一个动荡的帝国，边界随每一场战争而变动。"
+    },
+    "col": [
+      "reign over｜统治",
+      "reign supreme｜占据主导"
+    ],
+    "fam": [
+      "reign (n.)",
+      "regnant (adj.)"
+    ],
+    "tip": "源自拉丁 regnare“统治”，与 rex（国王）同根，词根是 reg-。",
+    "note": "与 rein（缰绳、控制）同音，不要写成 rein。作“统治、盛行”时无严格反义词。"
+  },
+  "precipitate": {
+    "us": "/prɪˈsɪpəˌteɪt/",
+    "syn": [
+      "trigger",
+      "hasten"
+    ],
+    "ant": [
+      "delay"
+    ],
+    "ex": {
+      "en": "Historians argue that the sudden tax ignited public anger and helped precipitate the revolt that toppled the provincial government.",
+      "zh": "史学家认为，这项突如其来的税负点燃了公愤，并促成了推翻省政府的叛乱。"
+    },
+    "col": [
+      "precipitate a crisis｜促成危机",
+      "precipitate conflict｜触发冲突"
+    ],
+    "fam": [
+      "precipitation (n.)",
+      "precipitous (adj.)"
+    ],
+    "tip": "拉丁 prae-（在前）加 caput（头）：原意是头朝下坠落，引申为突然促成。",
+    "note": "动词是“促成、加速”。形容词 precipitous 才是“陡峭的、仓促的”；名词 precipitation 在化学里是沉淀，在气象里是降水。"
+  },
+  "precariousness": {
+    "us": "/prɪˈkɛriəsnəs/",
+    "syn": [
+      "insecurity",
+      "instability"
+    ],
+    "ant": [
+      "security"
+    ],
+    "ex": {
+      "en": "The essay emphasizes the precariousness of the refugees' legal status, which could be revoked without notice or appeal.",
+      "zh": "文章强调难民法律地位的不稳，这种地位可能未经通知或申诉就被取消。"
+    },
+    "col": [
+      "precariousness of｜……的不稳定",
+      "economic precariousness｜经济上的不安定"
+    ],
+    "fam": [
+      "precarious (adj.)",
+      "precariously (adv.)"
+    ],
+    "tip": "拉丁 precarius 来自 prex“祈求”：要靠恳求才得到的，所以不牢靠。",
+    "note": "不要和 precious（珍贵的）相混。precarious 强调随时可能失去，不是“宝贵”。"
+  },
+  "oblige": {
+    "us": "/əˈblaɪdʒ/",
+    "syn": [
+      "compel",
+      "require"
+    ],
+    "ant": [
+      "exempt"
+    ],
+    "ex": {
+      "en": "A clause in the treaty did not merely request cooperation; it would oblige each nation to admit the displaced families.",
+      "zh": "条约中的一则条款不只是请求合作，它将迫使每个国家接收那些流离失所的家庭。"
+    },
+    "col": [
+      "oblige someone to｜迫使某人做",
+      "feel obliged｜感到有义务"
+    ],
+    "fam": [
+      "obligation (n.)",
+      "obligatory (adj.)"
+    ],
+    "tip": "拉丁 ob-（向）加 ligare“捆绑”：被约束住，因而必须去做。",
+    "note": "oblige 既可表示“迫使”，也可表示“施恩、帮忙”。much obliged 是客套的“承情”，不是“被迫”。"
+  },
+  "pristine": {
+    "us": "/ˈprɪˌstiːn/",
+    "syn": [
+      "unspoiled",
+      "pure"
+    ],
+    "ant": [
+      "spoiled"
+    ],
+    "ex": {
+      "en": "Researchers found that the crater lake remained pristine, its water untouched by the mining that scarred the surrounding valleys.",
+      "zh": "研究者发现火山口湖仍保持纯净，湖水并未受到破坏周围山谷的采矿活动影响。"
+    },
+    "col": [
+      "pristine condition｜完好如初的状态",
+      "pristine wilderness｜未受破坏的荒野"
+    ],
+    "fam": [
+      "pristinely (adv.)"
+    ],
+    "tip": "拉丁 pristinus 意思是“原先的、原始的”，英语里没有可再拆开的常用词缀。",
+    "note": "重音可在第一或第二音节。它指未受污染或保持原初状态，不是 simply“干净”所能涵盖的“崭新商品”。"
+  },
+  "register": {
+    "us": "/ˈrɛdʒəstɚ/",
+    "syn": [
+      "record",
+      "indicate"
+    ],
+    "ant": [
+      "erase"
+    ],
+    "ex": {
+      "en": "The seismograph began to register a faint tremor several seconds before residents on the surface felt the ground move.",
+      "zh": "地表居民感到地面移动之前数秒，地震仪就开始显示出一次微弱震动。"
+    },
+    "col": [
+      "register a complaint｜登记投诉",
+      "register surprise｜流露出惊讶"
+    ],
+    "fam": [
+      "registration (n.)",
+      "registrar (n.)"
+    ],
+    "tip": "拉丁 re-（再）加 gerere“携带、记载”，同根可见 gesture。",
+    "note": "动词既指“登记、记录”，也指“流露、显示”。名词 register 还可指语域或音区。与 erase 只是松散对照，无严格反义词。"
+  },
+  "delusional": {
+    "us": "/dɪˈluːʒənəl/",
+    "syn": [
+      "unrealistic",
+      "irrational"
+    ],
+    "ant": [
+      "realistic"
+    ],
+    "ex": {
+      "en": "Critics called the leader's claim of total victory delusional, since the army had already abandoned the capital.",
+      "zh": "批评者称这位领袖所谓彻底胜利的说法是妄想，因为军队已经放弃了首都。"
+    },
+    "col": [
+      "delusional belief｜妄想性信念",
+      "delusional disorder｜妄想障碍"
+    ],
+    "fam": [
+      "delusion (n.)",
+      "delude (v.)"
+    ],
+    "tip": "拉丁 de- 加 ludere“玩弄、戏耍”：被戏弄而看错现实。",
+    "note": "delusional 是“基于错觉的”。illusion 是一般错觉，delusion 更强调深信不疑的虚假信念。不要和 elusive（难以捉摸的）相混。"
+  },
+  "profane": {
+    "us": "/prəˈfeɪn/",
+    "syn": [
+      "secular",
+      "irreverent"
+    ],
+    "ant": [
+      "sacred"
+    ],
+    "ex": {
+      "en": "The passage contrasts the sacred hymns of the temple with the profane songs that circulated in the marketplace.",
+      "zh": "文章把神殿里的圣歌与集市上流传的世俗歌曲相对照。"
+    },
+    "col": [
+      "profane language｜亵渎的言语",
+      "the profane world｜凡俗世界"
+    ],
+    "fam": [
+      "profanity (n.)",
+      "profane (v.)"
+    ],
+    "tip": "拉丁 pro-（在……之前）加 fanum“神庙”：庙门之外的，即世俗的。",
+    "note": "两个相关义要分开：一是“非神圣的、世俗的”，二是“亵渎的”。动词 profane 表示“亵渎”。"
+  },
+  "reverberate": {
+    "us": "/rɪˈvɝbəˌreɪt/",
+    "syn": [
+      "echo",
+      "resound"
+    ],
+    "ant": [
+      "deaden"
+    ],
+    "ex": {
+      "en": "The court's decision would reverberate through later cases, shaping how judges interpreted the amendment for decades.",
+      "zh": "法院的这一判决将在后来的案件中持续产生反响，并在数十年里影响法官对该修正案的解释。"
+    },
+    "col": [
+      "reverberate through｜在……中回荡",
+      "reverberate across｜传遍"
+    ],
+    "fam": [
+      "reverberation (n.)",
+      "reverberant (adj.)"
+    ],
+    "tip": "拉丁 re-（回）加 verberare“抽打”：声音像被打回去，所以是回响。",
+    "note": "既可指声音回荡，也可指影响持续扩散。deaden 只表示把声音压住。无严格反义词。"
+  },
+  "reductive": {
+    "us": "/rɪˈdʌktɪv/",
+    "syn": [
+      "oversimplifying",
+      "simplistic"
+    ],
+    "ant": [
+      "nuanced"
+    ],
+    "ex": {
+      "en": "The reviewer faulted the documentary for a reductive account that treated a complex civil war as a simple feud.",
+      "zh": "评论者批评这部纪录片的叙述过于简化，把一场复杂的内战写成了单纯的世仇。"
+    },
+    "col": [
+      "reductive account｜过分简化的叙述",
+      "reductive approach｜化约式的思路"
+    ],
+    "fam": [
+      "reduce (v.)",
+      "reduction (n.)"
+    ],
+    "tip": "拉丁 re- 加 ducere“引导”：把复杂事物领回到过于简单的说法。",
+    "note": "阅读题里的 reductive 多指“把复杂问题说得过分简单”，不要只按化学里的“还原反应”理解。"
+  },
+  "vitiate": {
+    "us": "/ˈvɪʃiˌeɪt/",
+    "syn": [
+      "spoil",
+      "invalidate"
+    ],
+    "ant": [
+      "preserve"
+    ],
+    "ex": {
+      "en": "A single forged signature was enough to vitiate the contract and leave both parties without a legal remedy.",
+      "zh": "仅仅一个伪造签名就足以使合同无效，并使双方都得不到法律救济。"
+    },
+    "col": [
+      "vitiate a contract｜使合同失效",
+      "vitiate the effect｜损害效果"
+    ],
+    "fam": [
+      "vitiation (n.)"
+    ],
+    "tip": "拉丁 vitium 意思是“缺陷、毛病”，英语里没有更透明的常用前缀。",
+    "note": "既可指“损害质量”，也可指法律上“使无效”。不要和 vicious（恶毒的）或 vitiate 的名词 vice 的日常义“恶习”混为一谈。"
+  },
+  "buttress": {
+    "us": "/ˈbʌtrəs/",
+    "syn": [
+      "support",
+      "reinforce"
+    ],
+    "ant": [
+      "undermine"
+    ],
+    "ex": {
+      "en": "The author cites census figures to buttress her claim that migration, not birth rates, drove the city's growth.",
+      "zh": "作者引用人口普查数据来支撑她的主张：推动城市增长的是移民，而不是出生率。"
+    },
+    "col": [
+      "buttress a claim｜支撑论点",
+      "buttress an argument｜加固论证"
+    ],
+    "fam": [
+      "buttress (n.)"
+    ],
+    "tip": "源自古法语 bouter“推、顶”，原指建筑上的扶壁；英语中词源已不透明。",
+    "note": "动词是“支持、加固论点或结构”。名词 buttress 是扶壁。不要和 butt（粗端、撞击）或 butter 联想成词根。"
+  },
+  "recant": {
+    "us": "/rɪˈkænt/",
+    "syn": [
+      "retract",
+      "withdraw"
+    ],
+    "ant": [
+      "reaffirm"
+    ],
+    "ex": {
+      "en": "Under pressure from the council, the scholar refused to recant the theory that had already cost him his post.",
+      "zh": "尽管受到委员会的压力，这位学者仍拒绝撤回那项已经让他丢掉职位的理论。"
+    },
+    "col": [
+      "recant a statement｜撤回声明",
+      "recant one's beliefs｜放弃自己的信念"
+    ],
+    "fam": [
+      "recantation (n.)"
+    ],
+    "tip": "拉丁 re-（收回）加 cantare“唱、说”：把已经说出的话收回。",
+    "note": "recant 是公开放弃自己原先的主张。不要和 recount（叙述、重新计算）或 recant 的近形 cant（伪善之言）相混。"
+  },
+  "antenna": {
+    "us": "/ænˈtɛnə/",
+    "syn": [
+      "aerial",
+      "feeler"
+    ],
+    "ant": [
+      "shield"
+    ],
+    "ex": {
+      "en": "Each antenna on the roof collected a weak radio signal and sent it to the laboratory below.",
+      "zh": "屋顶上的每根天线都接收微弱的无线电信号，并把它传送到下面的实验室。"
+    },
+    "col": [
+      "radio antenna｜无线电天线",
+      "antenna array｜天线阵"
+    ],
+    "fam": [
+      "antennal (adj.)",
+      "antennae (n.)"
+    ],
+    "tip": "借自拉丁 antenna“帆桁”，生物学里转指触角；没有英语派生词缀可拆。",
+    "note": "接收设备的复数常用 antennas，昆虫触角的复数常用 antennae。无严格反义词。"
+  },
+  "erratic": {
+    "us": "/ɪˈrætɪk/",
+    "syn": [
+      "unpredictable",
+      "irregular"
+    ],
+    "ant": [
+      "steady"
+    ],
+    "ex": {
+      "en": "The patient's pulse grew erratic, rising and falling without warning as the physicians debated the next treatment.",
+      "zh": "病人的脉搏变得不稳定，在医生们讨论下一步治疗时毫无预兆地忽高忽低。"
+    },
+    "col": [
+      "erratic behavior｜反复无常的行为",
+      "erratic pulse｜不稳定的脉搏"
+    ],
+    "fam": [
+      "erratically (adv.)",
+      "err (v.)"
+    ],
+    "tip": "拉丁 errare“游荡、出错”，词根 err- 也见于 error。",
+    "note": "erratic 强调无规律、难以预测，不是 erotic（情色的），也不是 static（静止的）的简单反义拼写游戏。"
+  },
+  "tally": {
+    "us": "/ˈtæli/",
+    "syn": [
+      "count",
+      "record"
+    ],
+    "ant": [
+      "estimate"
+    ],
+    "ex": {
+      "en": "Clerks worked through the night to tally the ballots and confirm that no precinct had been omitted.",
+      "zh": "办事员通宵清点选票，并确认没有任何一个选区被漏掉。"
+    },
+    "col": [
+      "tally the votes｜清点选票",
+      "tally with｜与……相符"
+    ],
+    "fam": [
+      "tally (n.)"
+    ],
+    "tip": "经古法语追溯到拉丁 talea“刻痕木棍”，原是记账用的刻痕，不是英语里可拆的词根。",
+    "note": "tally 作动词还有 tally with“与……一致”。本条义是“计算、记录”，estimate 只是对照，无严格反义词。"
+  },
+  "stamen": {
+    "us": "/ˈsteɪmən/",
+    "syn": [
+      "pollen organ"
+    ],
+    "ant": [
+      "pistil"
+    ],
+    "ex": {
+      "en": "In the diagram, the stamen stands at the flower's center, where pollen is produced before insects carry it away.",
+      "zh": "图中雄蕊位于花的中央，花粉在此产生，再由昆虫带走。"
+    },
+    "col": [
+      "fertile stamen｜可育雄蕊",
+      "stamen and pistil｜雄蕊与雌蕊"
+    ],
+    "fam": [
+      "staminate (adj.)"
+    ],
+    "tip": "拉丁 stamen 原意是“经线、丝”，植物学借来指产生花粉的雄蕊。",
+    "note": "pistil 是雌蕊，二者是对应结构，不是反义词。无严格反义词。不要把 anther（花药）当成整枚雄蕊。"
+  },
+  "prestige": {
+    "us": "/prɛˈstiːʒ/",
+    "syn": [
+      "renown",
+      "status"
+    ],
+    "ant": [
+      "disrepute"
+    ],
+    "ex": {
+      "en": "The university's prestige attracted applicants who hoped that its name alone would open professional doors.",
+      "zh": "这所大学的声望吸引了申请者，他们希望单凭校名就能打开职业之门。"
+    },
+    "col": [
+      "gain prestige｜获得声望",
+      "national prestige｜国家威望"
+    ],
+    "fam": [
+      "prestigious (adj.)"
+    ],
+    "tip": "拉丁 praestigiae 原指“幻术、障眼法”，后来才转为令人瞩目的声望。",
+    "note": "prestigious 是“有声望的”，不要按古义理解成“靠骗术的”。prestige 是不可数的名誉，不是一张具体奖状。"
+  },
+  "umami": {
+    "us": "/uˈmɑmi/",
+    "syn": [
+      "savoriness",
+      "savory taste"
+    ],
+    "ant": [
+      "blandness"
+    ],
+    "ex": {
+      "en": "Food writers describe umami as the savory depth that broth gains when bones simmer for many hours.",
+      "zh": "美食作者把鲜味描述为骨头熬煮多时后汤汁获得的那种咸香厚度。"
+    },
+    "col": [
+      "umami taste｜鲜味",
+      "rich umami｜浓郁的鲜味"
+    ],
+    "fam": [
+      "umami (adj.)"
+    ],
+    "tip": "借自日语うま味（umami），字面是“美味”，在英语里没有词根可拆。",
+    "note": "它是酸甜苦咸之外的第五种基本味，不是某种具体食物。blandness 只表示没味道，无严格反义词。"
+  },
+  "detractor": {
+    "us": "/dɪˈtræktɚ/",
+    "syn": [
+      "critic",
+      "disparager"
+    ],
+    "ant": [
+      "supporter"
+    ],
+    "ex": {
+      "en": "Even a persistent detractor admitted that the reform had reduced infant mortality in the rural districts.",
+      "zh": "就连一个一直贬低这项改革的人也承认，它降低了乡村地区的婴儿死亡率。"
+    },
+    "col": [
+      "vocal detractor｜大声批评的人",
+      "detractor of｜贬低……的人"
+    ],
+    "fam": [
+      "detract (v.)",
+      "detraction (n.)"
+    ],
+    "tip": "拉丁 de-（向下）加 trahere“拉”：把声誉往下拉的人。",
+    "note": "detractor 是带贬低意味的批评者，不是中性的 reviewer。detract from 表示“减损”，不要写成 distract（使分心）。"
+  },
+  "denounce": {
+    "us": "/dɪˈnaʊns/",
+    "syn": [
+      "condemn",
+      "censure"
+    ],
+    "ant": [
+      "praise"
+    ],
+    "ex": {
+      "en": "In a public letter, the senator chose to denounce the new statute as a threat to a free press.",
+      "zh": "参议员在一封公开信中谴责这项新法令，称之为对新闻自由的威胁。"
+    },
+    "col": [
+      "denounce as｜谴责为",
+      "publicly denounce｜公开谴责"
+    ],
+    "fam": [
+      "denunciation (n.)"
+    ],
+    "tip": "拉丁 de- 加 nuntiare“宣告”，同根还有 announce、renounce。",
+    "note": "denounce 是公开谴责或告发。renounce 是宣布放弃自己的权利或信念，二者方向不同。"
+  },
+  "meager": {
+    "us": "/ˈmiɡɚ/",
+    "syn": [
+      "scanty",
+      "sparse"
+    ],
+    "ant": [
+      "abundant"
+    ],
+    "ex": {
+      "en": "Despite the meager harvest, the village managed to store enough grain to survive the coming winter.",
+      "zh": "尽管收成微薄，村子还是设法储存了足够的粮食来度过即将来临的冬天。"
+    },
+    "col": [
+      "meager harvest｜歉收",
+      "meager income｜微薄的收入"
+    ],
+    "fam": [
+      "meagerly (adv.)",
+      "meagerness (n.)"
+    ],
+    "tip": "拉丁 macer 意思是“瘦”，进入英语后没有可再分析的词缀。",
+    "note": "美式拼写是 meager，英式是 meagre。它指数量或质量不足，不是 mean（吝啬）的同义词。"
+  },
+  "ambush": {
+    "us": "/ˈæmbʊʃ/",
+    "syn": [
+      "waylay",
+      "surprise"
+    ],
+    "ant": [
+      "confront"
+    ],
+    "ex": {
+      "en": "Scouts warned that enemy troops might ambush the supply column where the road narrowed between the cliffs.",
+      "zh": "侦察兵警告说，敌军可能在道路变窄、两侧是悬崖的地方伏击补给队伍。"
+    },
+    "col": [
+      "ambush a patrol｜伏击巡逻队",
+      "ambush from cover｜从隐蔽处伏击"
+    ],
+    "fam": [
+      "ambush (n.)"
+    ],
+    "tip": "古法语 embuschier：en-（在其中）加 bush 同源的“灌木”，原意是藏在树丛里。",
+    "note": "本条是动词“埋伏袭击”。名词 an ambush 是伏击行动。confront 是公开面对。无严格反义词。"
+  },
+  "ramble": {
+    "us": "/ˈræmbəl/",
+    "syn": [
+      "wander",
+      "digress"
+    ],
+    "ant": [
+      "focus"
+    ],
+    "ex": {
+      "en": "The narrator tends to ramble from one childhood memory to another, never settling on a single episode.",
+      "zh": "叙述者往往从一段童年记忆漫谈到另一段，始终不定在某一件事上。"
+    },
+    "col": [
+      "ramble on｜没完没了地闲谈",
+      "ramble through｜在……漫步"
+    ],
+    "fam": [
+      "rambling (adj.)",
+      "rambler (n.)"
+    ],
+    "tip": "可能与 roam 有关，但词源未定，不要把 ramble 拆成看起来像的词根。",
+    "note": "既可指走路漫无目的，也可指说话离题。focus 只对照“闲谈”这一义，无严格反义词。"
+  },
+  "gothic": {
+    "us": "/ˈɡɑθɪk/",
+    "syn": [
+      "medieval",
+      "gloomy"
+    ],
+    "ant": [
+      "classical"
+    ],
+    "ex": {
+      "en": "The novel's gothic setting, with its decaying manor and unexplained footsteps, heightens the heroine's isolation.",
+      "zh": "小说阴森的哥特式背景，连同破败的庄园和无法解释的脚步声，加重了女主人公的孤立。"
+    },
+    "col": [
+      "gothic novel｜哥特小说",
+      "gothic architecture｜哥特式建筑"
+    ],
+    "fam": [
+      "Goth (n.)",
+      "Gothicism (n.)"
+    ],
+    "tip": "来自 Goth（哥特人）加形容词后缀 -ic，后来才指中世纪建筑和阴森风格。",
+    "note": "建筑上的 gothic 与古典式相对，只是风格对照；文学上指阴森怪诞。无严格反义词。不要和 Gothic 字体或“哥特亚文化”混成唯一义。"
+  },
+  "miasma": {
+    "us": "/maɪˈæzmə/",
+    "syn": [
+      "reek",
+      "foul atmosphere"
+    ],
+    "ant": [
+      "freshness"
+    ],
+    "ex": {
+      "en": "Residents blamed a miasma rising from the marsh for the fever that swept through the lower town.",
+      "zh": "居民把席卷下城区的热病归咎于沼泽升起的瘴气。"
+    },
+    "col": [
+      "poisonous miasma｜瘴气",
+      "miasma of fear｜恐惧的气氛"
+    ],
+    "fam": [
+      "miasmic (adj.)"
+    ],
+    "tip": "希腊语 miasma“污染、污秽之气”，来自 miainein“污染”，没有英语词缀。",
+    "note": "旧医学认为疾病来自瘴气；现代也比喻压抑、不健康的气氛。freshness 不是严格反义词。无严格反义词。"
+  },
+  "drudge": {
+    "us": "/drʌdʒ/",
+    "syn": [
+      "laborer",
+      "toiler"
+    ],
+    "ant": [
+      "idler"
+    ],
+    "ex": {
+      "en": "She refused to remain a drudge in the counting house, copying ledgers while others received credit for the work.",
+      "zh": "她不肯继续在账房里当苦工，只顾抄写账簿，功劳却归了别人。"
+    },
+    "col": [
+      "household drudge｜做家务苦差的人",
+      "overworked drudge｜劳累过度的苦工"
+    ],
+    "fam": [
+      "drudgery (n.)"
+    ],
+    "tip": "中古英语词，词源不明，没有可靠的词根或词缀可拆。",
+    "note": "名词指干枯燥苦活的人，不可数的劳累感要用 drudgery。idler 只是松散对照，无严格反义词。"
+  },
+  "throb": {
+    "us": "/θrɑb/",
+    "syn": [
+      "pulse",
+      "pound"
+    ],
+    "ant": [
+      "subside"
+    ],
+    "ex": {
+      "en": "As the procession approached, drums began to throb in a rhythm that matched the marchers' steady steps.",
+      "zh": "队伍走近时，鼓声开始以与游行者稳健步伐一致的节奏震动。"
+    },
+    "col": [
+      "throb with pain｜疼痛得一跳一跳",
+      "hearts throb｜心猛烈跳动"
+    ],
+    "fam": [
+      "throb (n.)",
+      "throbbing (adj.)"
+    ],
+    "tip": "拟声词，模仿跳动的声音，没有词根可拆。",
+    "note": "可指心脏、鼓声或疼痛的搏动。subside 表示减弱，不是严格反义词。无严格反义词。"
+  },
+  "verdant": {
+    "us": "/ˈvɝdənt/",
+    "syn": [
+      "lush",
+      "green"
+    ],
+    "ant": [
+      "barren"
+    ],
+    "ex": {
+      "en": "After weeks of rain, the hills turned verdant, and farmers returned to fields that had looked barren in June.",
+      "zh": "连下数周雨后，山丘变得青翠，农民回到了六月时还看似荒芜的田里。"
+    },
+    "col": [
+      "verdant hills｜青翠的山丘",
+      "verdant valley｜草木繁茂的山谷"
+    ],
+    "fam": [
+      "verdure (n.)",
+      "verdantly (adv.)"
+    ],
+    "tip": "法语 verd、拉丁 viridis 都表示“绿”，后缀 -ant 构成形容词。",
+    "note": "verdant 专指植物葱绿繁茂，不要用来形容任何绿色物体，例如绿漆或绿布。"
+  },
+  "sheen": {
+    "us": "/ʃiːn/",
+    "syn": [
+      "luster",
+      "shine"
+    ],
+    "ant": [
+      "dullness"
+    ],
+    "ex": {
+      "en": "A faint sheen on the bronze mask suggested that it had been polished for a ceremony rather than buried unused.",
+      "zh": "青铜面具上淡淡的光泽表明，它曾为仪式擦亮，而不是未经使用就被埋葬。"
+    },
+    "col": [
+      "metallic sheen｜金属光泽",
+      "soft sheen｜柔和的光泽"
+    ],
+    "fam": [
+      "sheeny (adj.)"
+    ],
+    "tip": "古英语 scēne 意思是“明亮、美丽”，与 shine 只是近亲，不是 shine 加后缀。",
+    "note": "sheen 是表面柔和的光泽，名词。shine 更常作动词或较强的光。dullness 是光泽的对照，可视为反义。"
+  },
+  "corpora": {
+    "us": "/ˈkɔrpərə/",
+    "syn": [
+      "collections",
+      "text collections"
+    ],
+    "ant": [
+      "excerpt"
+    ],
+    "ex": {
+      "en": "Linguists compared two corpora of nineteenth-century letters to trace how the spelling of the verb had changed.",
+      "zh": "语言学家比较了两套十九世纪书信语料，以追踪这个动词的拼写如何变化。"
+    },
+    "col": [
+      "linguistic corpora｜语言语料库",
+      "parallel corpora｜平行语料库"
+    ],
+    "fam": [
+      "corpus (n.)",
+      "corporeal (adj.)"
+    ],
+    "tip": "拉丁 corpus“身体、集合”的复数是 corpora；词根 corp- 表示主体或身体。",
+    "note": "corpora 已经是复数，单数是 corpus。不要再加 -s。corporeal 是“有形体的”，不是“语料的”。excerpt 只是对照，无严格反义词。"
+  },
+  "prominent": {
+    "us": "/ˈprɑmɪnənt/",
+    "syn": [
+      "notable",
+      "conspicuous"
+    ],
+    "ant": [
+      "obscure"
+    ],
+    "ex": {
+      "en": "A prominent astronomer challenged the popular view that the newly discovered object was merely a distant star.",
+      "zh": "一位杰出的天文学家挑战了流行看法，即新发现的天体只不过是一颗遥远的恒星。"
+    },
+    "col": [
+      "prominent figure｜杰出人物",
+      "prominent feature｜显著特征"
+    ],
+    "fam": [
+      "prominence (n.)",
+      "prominently (adv.)"
+    ],
+    "tip": "拉丁 pro-（向前）加 minere“突出”：向前伸出，因而显眼。",
+    "note": "既可指地位杰出，也可指外形或特征显眼。不要和 permanent（永久的）看混。"
+  },
+  "reciprocate": {
+    "us": "/rɪˈsɪprəˌkeɪt/",
+    "syn": [
+      "return",
+      "repay"
+    ],
+    "ant": [
+      "withhold"
+    ],
+    "ex": {
+      "en": "The diplomat hoped the neighboring state would reciprocate the gesture and reopen its border to trade.",
+      "zh": "这位外交官希望邻国回报这一姿态，并重新开放边境以便贸易。"
+    },
+    "col": [
+      "reciprocate a favor｜回报恩惠",
+      "reciprocate feelings｜回应感情"
+    ],
+    "fam": [
+      "reciprocal (adj.)",
+      "reciprocity (n.)"
+    ],
+    "tip": "拉丁 reciprocus 表示“来回相应”，不是 re- 加一个独立的常用词根。",
+    "note": "reciprocate 是以相应的行动回报。reciprocal 是“相互的”。不要和 reciprocate 的近形 replicate（复制）相混。"
+  },
+  "seclusion": {
+    "us": "/sɪˈkluʒən/",
+    "syn": [
+      "isolation",
+      "solitude"
+    ],
+    "ant": [
+      "publicity"
+    ],
+    "ex": {
+      "en": "After the scandal, the minister lived in seclusion, receiving only a few visitors at the country house.",
+      "zh": "丑闻之后，这位大臣过着与世隔绝的生活，在乡间宅邸只接待少数来客。"
+    },
+    "col": [
+      "live in seclusion｜隐居",
+      "prefer seclusion｜偏好独处"
+    ],
+    "fam": [
+      "seclude (v.)",
+      "secluded (adj.)"
+    ],
+    "tip": "拉丁 se-（分开）加 claudere“关闭”，同根还有 conclude、exclude。",
+    "note": "seclusion 是主动或被动地与人隔开。exclusion 是被排除在外，privacy 只是不受打扰，程度都不同。"
+  },
+  "stencil": {
+    "us": "/ˈstɛnsəl/",
+    "syn": [
+      "template",
+      "pattern"
+    ],
+    "ant": [
+      "freehand"
+    ],
+    "ex": {
+      "en": "Artisans used a stencil to repeat the same border along the wall, keeping every curve identical.",
+      "zh": "工匠用一块模板沿墙重复同一道边饰，使每一道曲线都保持一致。"
+    },
+    "col": [
+      "cut a stencil｜刻制模板",
+      "stencil design｜模板图案"
+    ],
+    "fam": [
+      "stencil (v.)"
+    ],
+    "tip": "可追溯到古法语 estenceler 和拉丁 scintilla“火花”，但“镂空模板”是后起义，不能按火花理解。",
+    "note": "名词是镂空的印版或模板，动词是用模板印。freehand 表示徒手，只是做法对照。无严格反义词。"
+  },
+  "etch": {
+    "us": "/ɛtʃ/",
+    "syn": [
+      "engrave",
+      "imprint"
+    ],
+    "ant": [
+      "erase"
+    ],
+    "ex": {
+      "en": "Acid was applied to etch the design into the copper plate before the printer pulled the first proof.",
+      "zh": "印刷工拉出第一张样张之前，先用酸把图案蚀刻进铜版。"
+    },
+    "col": [
+      "etch a design｜蚀刻图案",
+      "etched into memory｜铭刻在记忆中"
+    ],
+    "fam": [
+      "etching (n.)",
+      "etcher (n.)"
+    ],
+    "tip": "来自荷兰语 etsen、德语 ätzen，与 eat 同源，原意是用腐蚀来“吃”出痕迹。",
+    "note": "本义是酸蚀或镌刻；比喻义是深深留下印象。erase 是擦掉，只能算松散对照，无严格反义词。"
+  },
+  "unravel": {
+    "us": "/ʌnˈrævəl/",
+    "syn": [
+      "untangle",
+      "solve"
+    ],
+    "ant": [
+      "tangle"
+    ],
+    "ex": {
+      "en": "It took investigators months to unravel the scheme by which funds had been moved through several charities.",
+      "zh": "调查人员花了数月才理清资金经由若干慈善机构转移的那套手法。"
+    },
+    "col": [
+      "unravel a mystery｜解开谜团",
+      "unravel the truth｜弄清真相"
+    ],
+    "fam": [
+      "ravel (v.)"
+    ],
+    "tip": "前缀 un- 加 ravel。注意 ravel 本身也可以表示“散开、解开”。",
+    "note": "unravel 既指拆开线团，也指查明复杂事情。ravel 有时与它同义，不要以为 ravel 一定是反义词。"
+  },
+  "deference": {
+    "us": "/ˈdɛfərəns/",
+    "syn": [
+      "respect",
+      "submission"
+    ],
+    "ant": [
+      "defiance"
+    ],
+    "ex": {
+      "en": "Out of deference to the elder judge, the younger attorneys waited until she had finished before speaking.",
+      "zh": "出于对年长法官的尊重，年轻律师们等她说完才开口。"
+    },
+    "col": [
+      "in deference to｜出于对……的尊重",
+      "show deference｜表示顺从尊重"
+    ],
+    "fam": [
+      "deferential (adj.)",
+      "defer (v.)"
+    ],
+    "tip": "拉丁 de- 加 ferre“携带”：把决定权交出去，因而表示顺从。",
+    "note": "defer to 是“顺从”。另一个 defer 表示“推迟”，来源不同，不要混。deference 也不是 difference（差别）。"
+  },
+  "jarring": {
+    "us": "/ˈdʒɑrɪŋ/",
+    "syn": [
+      "harsh",
+      "discordant"
+    ],
+    "ant": [
+      "harmonious"
+    ],
+    "ex": {
+      "en": "The sudden shift from comedy to grief felt jarring, and several readers complained that the tone never recovered.",
+      "zh": "从喜剧突然转到悲痛显得很刺耳，好几位读者抱怨语气再也没有缓过来。"
+    },
+    "col": [
+      "jarring contrast｜刺目的对比",
+      "jarring note｜不和谐的声音"
+    ],
+    "fam": [
+      "jar (v.)",
+      "jarringly (adv.)"
+    ],
+    "tip": "jar 是拟声，表示撞击或刺耳的一声，-ing 构成形容词。",
+    "note": "jarring 指令人不适的不协调，可以是声音、语气或并列的想法。不要和 jargon（行话）或 jar 作为罐子的名词义相混。"
+  },
+  "shuffle": {
+    "us": "/ˈʃʌfəl/",
+    "syn": [
+      "drag",
+      "mix"
+    ],
+    "ant": [
+      "stride"
+    ],
+    "ex": {
+      "en": "Witnesses saw the injured porter shuffle across the platform, unwilling to lift either foot completely off the ground.",
+      "zh": "目击者看见受伤的搬运工拖着脚走过站台，两只脚都不肯完全离地。"
+    },
+    "col": [
+      "shuffle along｜拖着脚走",
+      "shuffle cards｜洗牌"
+    ],
+    "fam": [
+      "shuffle (n.)"
+    ],
+    "tip": "可能来自低地德语 schuffeln“笨拙地走”，属于拟声或借词，没有拉丁词根。",
+    "note": "既指拖步，也指洗牌或打乱顺序。stride 只对照步态。洗牌义无严格反义词。"
+  },
+  "defy": {
+    "us": "/dɪˈfaɪ/",
+    "syn": [
+      "resist",
+      "challenge"
+    ],
+    "ant": [
+      "obey"
+    ],
+    "ex": {
+      "en": "The villagers continued to defy the order that forbade them from gathering in the square after dusk.",
+      "zh": "村民们继续违抗那道禁止他们在黄昏后于广场聚集的命令。"
+    },
+    "col": [
+      "defy authority｜公然抗命",
+      "defy explanation｜难以解释"
+    ],
+    "fam": [
+      "defiance (n.)",
+      "defiant (adj.)"
+    ],
+    "tip": "拉丁 dis- 加 fidus“信任”：不再信任并公然对抗。词根 fid- 也见于 fidelity。",
+    "note": "defy explanation 的意思是“无法解释”，不是“拒绝去解释”。不要和 deify（神化）看混。"
+  },
+  "utilize": {
+    "us": "/ˈjutəˌlaɪz/",
+    "syn": [
+      "use",
+      "employ"
+    ],
+    "ant": [
+      "waste"
+    ],
+    "ex": {
+      "en": "The engineers learned to utilize waste heat from the furnace, channeling it to warm the adjacent workshops.",
+      "zh": "工程师们学会利用熔炉的废热，把它引导去给相邻的车间取暖。"
+    },
+    "col": [
+      "utilize resources｜利用资源",
+      "utilize fully｜充分利用"
+    ],
+    "fam": [
+      "utilization (n.)",
+      "utility (n.)"
+    ],
+    "tip": "拉丁 utilis“有用的”加动词后缀 -ize。",
+    "note": "utilize 就是正式的 use，并不比 use 更“高级”或更正确。waste 只是未能利用的对照，无严格反义词。"
+  },
+  "prelude": {
+    "us": "/ˈprɛlˌjuːd/",
+    "syn": [
+      "overture",
+      "introduction"
+    ],
+    "ant": [
+      "finale"
+    ],
+    "ex": {
+      "en": "The brief skirmish was only a prelude to the larger campaign that would begin once the rivers froze.",
+      "zh": "这场短暂的小冲突只是更大战役的前奏，战役要等河流封冻后才开始。"
+    },
+    "col": [
+      "a prelude to｜……的前奏",
+      "brief prelude｜短序曲"
+    ],
+    "fam": [
+      "prelude (v.)",
+      "prelusive (adj.)"
+    ],
+    "tip": "拉丁 prae-（在前）加 ludere“演奏、玩耍”，与 delude 同含 lud-。",
+    "note": "可指音乐序曲，也可指更大事件的先声。finale 是乐曲的结尾，与序曲前后相对。"
+  },
+  "dent": {
+    "us": "/dɛnt/",
+    "syn": [
+      "indentation",
+      "nick"
+    ],
+    "ant": [
+      "bulge"
+    ],
+    "ex": {
+      "en": "A deep dent in the helmet showed where a blow had struck, though the soldier himself survived.",
+      "zh": "头盔上的一道深凹显示了打击的位置，不过士兵本人活了下来。"
+    },
+    "col": [
+      "a deep dent｜一道深凹",
+      "make a dent in｜造成凹痕；略微影响"
+    ],
+    "fam": [
+      "dent (v.)",
+      "indentation (n.)"
+    ],
+    "tip": "与 indent 相关，最终来自拉丁 dens“牙”：像牙印一样的压痕。",
+    "note": "make a dent in 常比喻“对难题略有进展”，不只有物理凹痕。不要和 dentist 的专业义混成“牙齿”。"
+  },
+  "sordid": {
+    "us": "/ˈsɔrdɪd/",
+    "syn": [
+      "squalid",
+      "base"
+    ],
+    "ant": [
+      "honorable"
+    ],
+    "ex": {
+      "en": "The memoir refuses to romanticize the sordid dealings by which the fortune had been assembled.",
+      "zh": "这本回忆录拒绝美化那笔财富得以聚拢的卑鄙交易。"
+    },
+    "col": [
+      "sordid affair｜肮脏的勾当",
+      "sordid details｜卑劣的细节"
+    ],
+    "fam": [
+      "sordidness (n.)",
+      "sordidly (adv.)"
+    ],
+    "tip": "拉丁 sordidus“肮脏的”，来自 sordere“污秽”，没有英语前缀可拆。",
+    "note": "sordid 既指道德卑劣，也指环境肮脏。不要和 solid（坚固的）或 sorted（整理好的）相混。"
+  },
+  "deplete": {
+    "us": "/dɪˈpliːt/",
+    "syn": [
+      "exhaust",
+      "drain"
+    ],
+    "ant": [
+      "replenish"
+    ],
+    "ex": {
+      "en": "Intensive irrigation threatened to deplete the aquifer faster than seasonal rains could replenish it.",
+      "zh": "高强度灌溉有可能使含水层消耗得比季节性降雨补充的速度更快。"
+    },
+    "col": [
+      "deplete reserves｜耗尽储备",
+      "deplete resources｜消耗资源"
+    ],
+    "fam": [
+      "depletion (n.)",
+      "depleted (adj.)"
+    ],
+    "tip": "拉丁 de-（去掉）加 plere“充满”，同根还有 complete、replete。",
+    "note": "deplete 是逐渐用尽存量。delete 是删除文字或数据，二者不是近义词。"
+  },
+  "instantaneous": {
+    "us": "/ˌɪnstənˈteɪniəs/",
+    "syn": [
+      "immediate",
+      "instant"
+    ],
+    "ant": [
+      "gradual"
+    ],
+    "ex": {
+      "en": "The communication was not instantaneous; messages still crossed the ocean by ship and arrived weeks later.",
+      "zh": "通讯并非即时的；消息仍要靠船横渡大洋，数周后才到达。"
+    },
+    "col": [
+      "instantaneous reaction｜即时反应",
+      "instantaneous communication｜即时通信"
+    ],
+    "fam": [
+      "instant (adj.)",
+      "instantly (adv.)"
+    ],
+    "tip": "拉丁 in- 加 stare“站立”：正站在眼前的那一瞬间，再加 -aneous。",
+    "note": "instantaneous 强调几乎没有时间间隔。simultaneous 是“同时发生”，不是“立刻”。"
+  },
+  "bombard": {
+    "us": "/bɑmˈbɑrd/",
+    "syn": [
+      "shell",
+      "besiege"
+    ],
+    "ant": [
+      "spare"
+    ],
+    "ex": {
+      "en": "Artillery units were ordered to bombard the fortress until its outer wall finally gave way.",
+      "zh": "炮兵部队奉命不断炮击要塞，直到外墙终于倒塌。"
+    },
+    "col": [
+      "bombard a city｜轰炸一座城市",
+      "bombard with questions｜连珠炮似的追问"
+    ],
+    "fam": [
+      "bombardment (n.)",
+      "bombardier (n.)"
+    ],
+    "tip": "与 bomb 同源，原指用射石炮攻击，-ard 是名词后缀，后转为动词。",
+    "note": "既可指实际炮击，也可比喻连续质问或信息轰炸。spare 只是“放过”的对照，无严格反义词。不要和 bombastic（浮夸的）相混。"
+  },
+  "moniker": {
+    "us": "/ˈmɑnɪkɚ/",
+    "syn": [
+      "nickname",
+      "alias"
+    ],
+    "ant": [
+      "legal name"
+    ],
+    "ex": {
+      "en": "The pirate's moniker, whispered in every port, was better known than the name recorded on his birth certificate.",
+      "zh": "这个在每个港口都被低声提起的海盗绰号，比他出生证明上的名字更为人知。"
+    },
+    "col": [
+      "acquire a moniker｜得到一个绰号",
+      "under the moniker｜以这个绰号"
+    ],
+    "fam": [
+      "moniker (n.)"
+    ],
+    "tip": "十九世纪俚语，词源不明，不要把它拆成看似像的希腊词根。",
+    "note": "moniker 是非正式绰号或化名。legal name 只是对照正式姓名。无严格反义词。几乎没有常用派生词。"
+  },
+  "retrace": {
+    "us": "/riˈtreɪs/",
+    "syn": [
+      "backtrack",
+      "revisit"
+    ],
+    "ant": [
+      "advance"
+    ],
+    "ex": {
+      "en": "To find the missing map, the archivist had to retrace the steps of the clerk who last signed it out.",
+      "zh": "为了找到失踪的地图，档案管理员不得不顺着最后借出它的那位职员的脚步往回查。"
+    },
+    "col": [
+      "retrace one's steps｜沿原路返回",
+      "retrace a route｜重走一条路线"
+    ],
+    "fam": [
+      "trace (v.)",
+      "trace (n.)"
+    ],
+    "tip": "前缀 re- 表示“重新、往回”，加上 trace“追踪”。",
+    "note": "retrace 是沿原路再走一遍或回顾过程。advance 只是方向上的对照，无严格反义词。不要和 retract（收回言论）相混。"
+  },
+  "droop": {
+    "us": "/druːp/",
+    "syn": [
+      "sag",
+      "wilt"
+    ],
+    "ant": [
+      "straighten"
+    ],
+    "ex": {
+      "en": "By late afternoon the seedlings began to droop, their leaves folding as the unshaded soil dried.",
+      "zh": "到了下午晚些时候，幼苗开始发蔫，未遮阴的土壤变干时叶子也折了下来。"
+    },
+    "col": [
+      "droop with fatigue｜因疲劳而萎靡",
+      "leaves droop｜叶子下垂"
+    ],
+    "fam": [
+      "droop (n.)",
+      "droopy (adj.)"
+    ],
+    "tip": "古诺尔斯语 drūpa“下垂”，没有拉丁词缀可拆。",
+    "note": "droop 是无力地垂下，可以是植物，也可以是精神。不要和 drop（掉落）当成同一个词。"
+  },
+  "contrive": {
+    "us": "/kənˈtraɪv/",
+    "syn": [
+      "devise",
+      "engineer"
+    ],
+    "ant": [
+      "abandon"
+    ],
+    "ex": {
+      "en": "The prisoners managed to contrive a signal using only a mirror and the narrow slit above the door.",
+      "zh": "囚犯们设法只用一面镜子和门上方的窄缝设计出一种信号。"
+    },
+    "col": [
+      "contrive a plan｜设计一个办法",
+      "contrive to do｜设法做成"
+    ],
+    "fam": [
+      "contrivance (n.)",
+      "contrived (adj.)"
+    ],
+    "tip": "经古法语 controver 进入英语，拉丁来源有争议，不要拆成 con- 加一个自造词根。",
+    "note": "contrive 常含巧思，有时带策划意味。contrived 作形容词则是“不自然、做作的”。abandon 不是严格反义词。无严格反义词。"
+  },
+  "scowl": {
+    "us": "/skaʊl/",
+    "syn": [
+      "frown",
+      "glower"
+    ],
+    "ant": [
+      "smile"
+    ],
+    "ex": {
+      "en": "The coach would scowl at any player who celebrated before the final whistle had actually sounded.",
+      "zh": "只要有球员在终场哨声真正响起之前就庆祝，教练就会怒目而视。"
+    },
+    "col": [
+      "scowl at｜对……怒视",
+      "scowl darkly｜阴沉地皱眉"
+    ],
+    "fam": [
+      "scowl (n.)"
+    ],
+    "tip": "可能来自北欧语，与“斜眼看”有关，没有拉丁词根。",
+    "note": "scowl 比 frown 更带怒气。名词和动词同形。不要和 growl（低吼）或 howl 相混。"
+  },
+  "indoctrinate": {
+    "us": "/ɪnˈdɑktrəˌneɪt/",
+    "syn": [
+      "inculcate",
+      "brainwash"
+    ],
+    "ant": [
+      "enlighten"
+    ],
+    "ex": {
+      "en": "The pamphlet was designed to indoctrinate new recruits, presenting one political doctrine as unquestionable fact.",
+      "zh": "这本小册子旨在向新成员灌输思想，把一种政治信条说成无可质疑的事实。"
+    },
+    "col": [
+      "indoctrinate recruits｜向新成员灌输",
+      "indoctrinate with｜用……进行灌输"
+    ],
+    "fam": [
+      "indoctrination (n.)",
+      "doctrine (n.)"
+    ],
+    "tip": "拉丁 in- 加 doctrina“教义”，doctrina 来自 docere“教”。",
+    "note": "indoctrinate 含贬义，指单向灌输，不鼓励质疑。enlighten 只是松散对照，无严格反义词。它不是普通的 teach。"
+  },
+  "vilification": {
+    "us": "/ˌvɪləfəˈkeɪʃən/",
+    "syn": [
+      "defamation",
+      "denigration"
+    ],
+    "ant": [
+      "praise"
+    ],
+    "ex": {
+      "en": "The essay condemns the vilification of the scientist, whose cautious findings were twisted into personal attacks.",
+      "zh": "文章谴责对这位科学家的诽谤，其谨慎的研究结果被歪曲成了人身攻击。"
+    },
+    "col": [
+      "vilification of｜对……的中伤",
+      "campaign of vilification｜诽谤攻势"
+    ],
+    "fam": [
+      "vilify (v.)",
+      "vile (adj.)"
+    ],
+    "tip": "拉丁 vilis“低贱的”加 -fication“使成为”：把人说得很卑劣。",
+    "note": "vilification 是辱骂性的公开贬低，比 criticism 更恶毒。不要和 villain（恶棍）当成动词形式。"
+  },
+  "benediction": {
+    "us": "/ˌbɛnəˈdɪkʃən/",
+    "syn": [
+      "blessing",
+      "benison"
+    ],
+    "ant": [
+      "curse"
+    ],
+    "ex": {
+      "en": "At the close of the service, the priest offered a benediction asking protection for travelers about to depart.",
+      "zh": "礼拜结束时，神父献上祝福，祈求保护即将出发的旅人。"
+    },
+    "col": [
+      "offer a benediction｜给予祝福",
+      "closing benediction｜结束时的祝祷"
+    ],
+    "fam": [
+      "benedictory (adj.)"
+    ],
+    "tip": "拉丁 bene“好”加 dicere“说”，同根还有 dictate、predict。",
+    "note": "benediction 是祝福或祝祷文。malediction 才是诅咒。不要和 Benedict 这个人名混成词根本身。"
+  },
+  "patch": {
+    "us": "/pætʃ/",
+    "syn": [
+      "mend",
+      "scrap"
+    ],
+    "ant": [
+      "hole"
+    ],
+    "ex": {
+      "en": "A faded patch on the sail showed where canvas had been sewn over a tear from the last storm.",
+      "zh": "船帆上褪色的补丁标明了上次风暴撕裂处被帆布缝上的位置。"
+    },
+    "col": [
+      "a patch of｜一小块",
+      "apply a patch｜打上补丁"
+    ],
+    "fam": [
+      "patch (v.)",
+      "patchy (adj.)"
+    ],
+    "tip": "中古英语词，词源不明，不要把它硬拆成词根。",
+    "note": "名词既指补丁，也指一小块地面或色块。hole 只是补丁所覆盖的东西，无严格反义词。动词 patch up 还可指勉强修补关系。"
+  },
+  "hierarchical": {
+    "us": "/ˌhaɪəˈrɑrkɪkəl/",
+    "syn": [
+      "ranked",
+      "graded"
+    ],
+    "ant": [
+      "egalitarian"
+    ],
+    "ex": {
+      "en": "The workshop was hierarchical, with apprentices answering to journeymen who themselves obeyed a single master.",
+      "zh": "这个作坊等级分明，学徒听命于帮工，帮工再服从唯一的师傅。"
+    },
+    "col": [
+      "hierarchical structure｜等级结构",
+      "hierarchical society｜等级社会"
+    ],
+    "fam": [
+      "hierarchy (n.)",
+      "hierarch (n.)"
+    ],
+    "tip": "希腊 hieros“神圣的”加 arkhos“统治者”，再加 -ical。",
+    "note": "hierarchical 强调按等级排列。不要和 hereditary（世袭的）相混；等级可以不靠血统。"
+  },
+  "galvanize": {
+    "us": "/ˈɡælvəˌnaɪz/",
+    "syn": [
+      "stimulate",
+      "rouse"
+    ],
+    "ant": [
+      "discourage"
+    ],
+    "ex": {
+      "en": "News of the flood helped galvanize volunteers, who arrived with boats before the official rescue order was issued.",
+      "zh": "洪水的消息激励了志愿者，他们在官方救援命令下达之前就带着船赶来了。"
+    },
+    "col": [
+      "galvanize support｜激发支持",
+      "galvanize into action｜促使行动起来"
+    ],
+    "fam": [
+      "galvanic (adj.)",
+      "galvanization (n.)"
+    ],
+    "tip": "源自科学家 Galvani 的姓氏，-ize 表示“使……”。电流刺激后来比喻激励行动。",
+    "note": "阅读里多取“激励”义。技术义是给金属镀锌。不要按 gal- 自造一个拉丁词根。"
+  },
+  "antagonistic": {
+    "us": "/ænˌtæɡəˈnɪstɪk/",
+    "syn": [
+      "hostile",
+      "opposed"
+    ],
+    "ant": [
+      "cordial"
+    ],
+    "ex": {
+      "en": "Relations remained antagonistic long after the ceasefire, and neither delegation would share a negotiating table.",
+      "zh": "停火许久之后关系仍然敌对，双方代表团都不肯坐到同一张谈判桌旁。"
+    },
+    "col": [
+      "antagonistic toward｜对……抱有敌意",
+      "antagonistic relationship｜敌对关系"
+    ],
+    "fam": [
+      "antagonist (n.)",
+      "antagonize (v.)"
+    ],
+    "tip": "希腊 anti-“对抗”加 agon“竞赛”，再加 -istic。",
+    "note": "antagonist 在文学里是对手，在生理里是拮抗肌或拮抗药。antagonistic 是“敌对的”，不是 protagonist（主角）的简单反义拼写。"
+  },
+  "divergent": {
+    "us": "/daɪˈvɝdʒənt/",
+    "syn": [
+      "differing",
+      "separate"
+    ],
+    "ant": [
+      "convergent"
+    ],
+    "ex": {
+      "en": "The two historians offered divergent explanations, one stressing trade routes and the other religious conflict.",
+      "zh": "两位史学家给出了不同的解释，一位强调商路，另一位强调宗教冲突。"
+    },
+    "col": [
+      "divergent views｜分歧的看法",
+      "divergent paths｜岔开的道路"
+    ],
+    "fam": [
+      "diverge (v.)",
+      "divergence (n.)"
+    ],
+    "tip": "拉丁 di-（分开）加 vergere“倾斜、趋向”。",
+    "note": "divergent 是方向或意见分开。diverse 只是“多种多样”，不一定曾经同路。不要和 divergent 的数学级数义以外的 divert（转移）相混。"
+  },
+  "distaste": {
+    "us": "/dɪsˈteɪst/",
+    "syn": [
+      "aversion",
+      "dislike"
+    ],
+    "ant": [
+      "liking"
+    ],
+    "ex": {
+      "en": "Her distaste for public ceremony is evident in letters that describe coronations as exhausting displays.",
+      "zh": "她对公开典礼的反感在书信里很明显，那些信把加冕写成令人疲惫的排场。"
+    },
+    "col": [
+      "distaste for｜对……的厌恶",
+      "express distaste｜表示反感"
+    ],
+    "fam": [
+      "distasteful (adj.)",
+      "taste (n.)"
+    ],
+    "tip": "前缀 dis- 表示否定，加上 taste“味道、喜好”。",
+    "note": "distaste 是厌恶，后面用 for。distasteful 是“令人反感的”，修饰事物而不是人的感受本身。"
+  },
+  "dexterity": {
+    "us": "/dɛkˈstɛrəti/",
+    "syn": [
+      "skill",
+      "adroitness"
+    ],
+    "ant": [
+      "clumsiness"
+    ],
+    "ex": {
+      "en": "The surgeon's dexterity allowed her to repair the tiny vessel without damaging the tissue around it.",
+      "zh": "这位外科医生手法灵巧，修好了那根细小的血管，又没有损伤周围组织。"
+    },
+    "col": [
+      "manual dexterity｜手部灵巧",
+      "with dexterity｜熟练地"
+    ],
+    "fam": [
+      "dexterous (adj.)"
+    ],
+    "tip": "拉丁 dexter“右手的、灵巧的”，因为传统上右手被认为更熟练。",
+    "note": "dexterity 可以指手上功夫，也可以指处理事务的敏捷。形容词 dexterous 也可拼作 dextrous。"
+  },
+  "straddle": {
+    "us": "/ˈstrædəl/",
+    "syn": [
+      "span",
+      "bestride"
+    ],
+    "ant": [
+      "bypass"
+    ],
+    "ex": {
+      "en": "The new road was built to straddle the creek, carrying traffic above the water during the spring floods.",
+      "zh": "新路被修成横跨小溪的样子，以便春汛期间让车辆从水面上方通过。"
+    },
+    "col": [
+      "straddle the line｜骑墙；横跨界线",
+      "straddle a horse｜跨坐在马上"
+    ],
+    "fam": [
+      "straddle (n.)"
+    ],
+    "tip": "与 stride“大步”相关，-le 是动词性词尾，不是拉丁词根。",
+    "note": "既可指跨坐或横跨，也可比喻同时站在两种立场上。bypass 只是松散对照，无严格反义词。"
+  },
+  "amphibian": {
+    "us": "/æmˈfɪbiən/",
+    "syn": [
+      "amphibious animal"
+    ],
+    "ant": [
+      "fish"
+    ],
+    "ex": {
+      "en": "The fossil resembles an amphibian, with limbs sturdy enough for land and a tail suited to swimming.",
+      "zh": "这块化石像一种两栖动物，四肢结实得可以上陆，尾巴又适合游泳。"
+    },
+    "col": [
+      "amphibian species｜两栖动物物种",
+      "amphibian vehicle｜水陆两用车辆"
+    ],
+    "fam": [
+      "amphibious (adj.)"
+    ],
+    "tip": "希腊 amphi-“两边”加 bios“生命”：能在水陆两种环境生活。",
+    "note": "可指两栖动物，也可指水陆两用车辆。fish 只是完全水生的对照，无严格反义词。amphibious 是形容词。"
+  },
+  "mandate": {
+    "us": "/ˈmænˌdeɪt/",
+    "syn": [
+      "command",
+      "authorization"
+    ],
+    "ant": [
+      "suggestion"
+    ],
+    "ex": {
+      "en": "The charter granted the agency a mandate to inspect mines and to close those that violated safety rules.",
+      "zh": "章程授予该机构检查矿井并关闭违反安全规定者的权力。"
+    },
+    "col": [
+      "legal mandate｜法定授权",
+      "mandate to｜做……的命令或授权"
+    ],
+    "fam": [
+      "mandatory (adj.)",
+      "mandate (v.)"
+    ],
+    "tip": "拉丁 mandare“交付、命令”，与 manus“手”和 dare“给”有关。",
+    "note": "名词既是官方命令，也是选民或章程赋予的授权。suggestion 只表示没有强制力，无严格反义词。mandatory 才是“强制的”。"
+  },
+  "suffrage": {
+    "us": "/ˈsʌfrɪdʒ/",
+    "syn": [
+      "franchise",
+      "vote"
+    ],
+    "ant": [
+      "disenfranchisement"
+    ],
+    "ex": {
+      "en": "Activists argued that suffrage should not depend on property, since citizenship already implied a voice in law.",
+      "zh": "活动家主张选举权不应取决于财产，因为公民身份本身就意味着在法律上有发言权。"
+    },
+    "col": [
+      "universal suffrage｜普选权",
+      "women's suffrage｜妇女选举权"
+    ],
+    "fam": [
+      "suffragist (n.)",
+      "suffragette (n.)"
+    ],
+    "tip": "拉丁 suffragium“投票、表决”，英语里没有可再拆的常用词缀。",
+    "note": "suffrage 是投票权，不是 suffer（受苦）的名词。suffragette 特指争取妇女选举权的活动者，带历史色彩。"
+  },
+  "exponential": {
+    "us": "/ˌɛkspəˈnɛnʃəl/",
+    "syn": [
+      "accelerating",
+      "explosive"
+    ],
+    "ant": [
+      "linear"
+    ],
+    "ex": {
+      "en": "Once the bacteria reached the warmer broth, their growth became exponential, doubling within each short interval.",
+      "zh": "细菌一进入较暖的培养液，生长就变成指数式的，每过很短一段时间就翻一倍。"
+    },
+    "col": [
+      "exponential growth｜指数增长",
+      "exponential increase｜迅猛倍增"
+    ],
+    "fam": [
+      "exponent (n.)",
+      "exponentially (adv.)"
+    ],
+    "tip": "来自 exponent，拉丁 ex- 加 ponere“放置”：写在上方的指数。",
+    "note": "不要把任何“很快”都叫 exponential。指数增长是按倍率加快，对照的是 linear（按固定增量）。"
+  },
+  "gleam": {
+    "us": "/ɡliːm/",
+    "syn": [
+      "shine",
+      "glint"
+    ],
+    "ant": [
+      "dim"
+    ],
+    "ex": {
+      "en": "A lantern began to gleam at the harbor mouth, signaling that the channel was finally clear of ice.",
+      "zh": "港口入口处一盏灯开始闪光，表示航道终于没有了冰。"
+    },
+    "col": [
+      "gleam in the dark｜在暗处闪光",
+      "gleam with｜闪着……的光"
+    ],
+    "fam": [
+      "gleam (n.)",
+      "gleaming (adj.)"
+    ],
+    "tip": "古英语 glǣm“闪光”，与 glimmer 同源，没有可拆词缀。",
+    "note": "gleam 是短暂或柔和的闪光，动词和名词都常见。glare 是刺眼的强光，glimmer 更微弱。"
+  },
+  "disagreeable": {
+    "us": "/ˌdɪsəˈɡriəbəl/",
+    "syn": [
+      "unpleasant",
+      "offensive"
+    ],
+    "ant": [
+      "agreeable"
+    ],
+    "ex": {
+      "en": "The odor was so disagreeable that workers refused to enter the warehouse until the crates were removed.",
+      "zh": "气味难闻到工人拒绝进入仓库，直到那些箱子被搬走。"
+    },
+    "col": [
+      "disagreeable odor｜难闻的气味",
+      "disagreeable person｜难相处的人"
+    ],
+    "fam": [
+      "disagree (v.)",
+      "agreeable (adj.)"
+    ],
+    "tip": "dis-（否定）加 agreeable；agree 来自拉丁 ad- 加 gratus“令人高兴的”。",
+    "note": "disagreeable 是“令人不快的”，可以形容气味或人。disagree 是“不同意”，名词 disagreement 不是“讨厌”。"
+  },
+  "disciplinary": {
+    "us": "/ˈdɪsəpləˌnɛri/",
+    "syn": [
+      "punitive",
+      "corrective"
+    ],
+    "ant": [
+      "permissive"
+    ],
+    "ex": {
+      "en": "The school adopted a disciplinary policy that replaced suspension with supervised study and a written apology.",
+      "zh": "学校采用了一项纪律政策，用督导学习和书面道歉取代停学。"
+    },
+    "col": [
+      "disciplinary action｜纪律处分",
+      "disciplinary measures｜惩戒措施"
+    ],
+    "fam": [
+      "discipline (n.)",
+      "discipline (v.)"
+    ],
+    "tip": "拉丁 disciplina 来自 discere“学习”，既指训练纪律，也指学科。",
+    "note": "本条是“纪律的、惩戒的”。interdisciplinary 才是“跨学科的”。permissive 只是宽松对照，无严格反义词。"
+  },
+  "pitch": {
+    "us": "/pɪtʃ/",
+    "syn": [
+      "tone",
+      "throw"
+    ],
+    "ant": [
+      "catch"
+    ],
+    "ex": {
+      "en": "The singer struggled to hold the pitch when the unheated hall made every sustained note waver.",
+      "zh": "大厅没有供暖，每个延长音都发颤，歌手难以稳住音高。"
+    },
+    "col": [
+      "perfect pitch｜绝对音高",
+      "a wild pitch｜失控的投球"
+    ],
+    "fam": [
+      "pitch (v.)"
+    ],
+    "tip": "表示“投、定音”的 pitch 来自中古英语“投掷、安放”；表示沥青的 pitch 来自拉丁 pix，是另一个词。",
+    "note": "音高不是音量 loudness。投掷义可与 catch 对照，但音高义无严格反义词。也不要理解成沥青。"
+  },
+  "pivotal": {
+    "us": "/ˈpɪvətl/",
+    "syn": [
+      "crucial",
+      "central"
+    ],
+    "ant": [
+      "peripheral"
+    ],
+    "ex": {
+      "en": "The witness's testimony proved pivotal, supplying the detail that connected the forged ledger to the defendant.",
+      "zh": "证人的证词被证明是关键的，它提供了把伪造账本和被告联系起来的细节。"
+    },
+    "col": [
+      "pivotal role｜关键作用",
+      "pivotal moment｜关键时刻"
+    ],
+    "fam": [
+      "pivot (n.)",
+      "pivot (v.)"
+    ],
+    "tip": "来自法语 pivot“枢轴”，-al 构成形容词：像轴心一样决定转动。",
+    "note": "pivotal 是“关键的”，不是“旋转的”本身。pivot 作动词是“以……为轴转动”或“把战略重心转向”。"
+  },
+  "profusion": {
+    "us": "/prəˈfjuʒən/",
+    "syn": [
+      "abundance",
+      "excess"
+    ],
+    "ant": [
+      "scarcity"
+    ],
+    "ex": {
+      "en": "A profusion of wildflowers covered the slope, so dense that the path itself was nearly hidden.",
+      "zh": "野花大量覆盖着山坡，密得几乎把小路本身都遮住了。"
+    },
+    "col": [
+      "a profusion of｜大量的",
+      "in profusion｜大量地"
+    ],
+    "fam": [
+      "profuse (adj.)",
+      "profusely (adv.)"
+    ],
+    "tip": "拉丁 pro- 加 fundere“倾倒”，同根还有 confuse、transfusion。",
+    "note": "profusion 是多得几乎过量。profession 是职业，perfusion 是灌注，三者只是形近。"
+  },
+  "edifice": {
+    "us": "/ˈɛdəfəs/",
+    "syn": [
+      "building",
+      "structure"
+    ],
+    "ant": [
+      "hut"
+    ],
+    "ex": {
+      "en": "The marble edifice, built to house the national library, dominated the square for more than a century.",
+      "zh": "这座为国家图书馆而建的大理石大厦，一个多世纪里一直矗立在广场上，显得格外突出。"
+    },
+    "col": [
+      "marble edifice｜大理石大厦",
+      "imposing edifice｜宏伟的建筑"
+    ],
+    "fam": [
+      "edify (v.)"
+    ],
+    "tip": "拉丁 aedes“房屋”加 facere“建造”，与 edify 同根。",
+    "note": "edifice 是宏伟建筑，也可比喻庞大的理论体系。edify 现在的意思是“教化”，不是“盖楼”。hut 只是简陋对照，无严格反义词。"
+  },
+  "bureaucratic": {
+    "us": "/ˌbjʊrəˈkrætɪk/",
+    "syn": [
+      "administrative",
+      "procedural"
+    ],
+    "ant": [
+      "flexible"
+    ],
+    "ex": {
+      "en": "Applicants described a bureaucratic process in which every form required a stamp from a different office.",
+      "zh": "申请者形容手续官僚繁琐，每一份表格都要到不同办公室盖章。"
+    },
+    "col": [
+      "bureaucratic procedure｜官僚程序",
+      "bureaucratic delay｜繁文缛节造成的拖延"
+    ],
+    "fam": [
+      "bureaucracy (n.)",
+      "bureaucrat (n.)"
+    ],
+    "tip": "法语 bureau“办公处”加希腊 -cracy“统治”，再加 -ic。",
+    "note": "常含贬义，指手续僵硬、层级过多。flexible 只是松散对照，无严格反义词。不要和 democratic（民主的）对看成反义词。"
+  },
+  "fortify": {
+    "us": "/ˈfɔrtəˌfaɪ/",
+    "syn": [
+      "strengthen",
+      "secure"
+    ],
+    "ant": [
+      "weaken"
+    ],
+    "ex": {
+      "en": "Workers hurried to fortify the levee with sandbags before the river reached the predicted crest.",
+      "zh": "工人们赶在河水达到预测洪峰之前，用沙袋加固堤坝。"
+    },
+    "col": [
+      "fortify a city｜给城市设防",
+      "fortify one's resolve｜坚定决心"
+    ],
+    "fam": [
+      "fort (n.)",
+      "fortification (n.)"
+    ],
+    "tip": "拉丁 fortis“强壮的”加 -ify“使……”。",
+    "note": "既可指修筑防御，也可指增强信心、营养或论点。不要和 fortify 的食品义“强化营养”漏掉，也不要和 fortuitous（偶然的）相混。"
+  },
+  "comrade": {
+    "us": "/ˈkɑmˌræd/",
+    "syn": [
+      "companion",
+      "colleague"
+    ],
+    "ant": [
+      "enemy"
+    ],
+    "ex": {
+      "en": "Each comrade in the expedition carried an equal share of supplies and took a turn watching the camp.",
+      "zh": "探险队里的每个伙伴都分担等量的补给，并轮流看守营地。"
+    },
+    "col": [
+      "comrade in arms｜战友",
+      "old comrade｜老伙伴"
+    ],
+    "fam": [
+      "comradeship (n.)",
+      "comradely (adj.)"
+    ],
+    "tip": "西班牙语 camarada“同室的人”，来自拉丁 camera“房间”。",
+    "note": "comrade 是同伴，在政治文本里常指同志。camaraderie 是情谊，不是一个人。enemy 是对立面，但日常对照常常只是 stranger。"
+  },
+  "iridescent": {
+    "us": "/ˌɪrəˈdɛsənt/",
+    "syn": [
+      "opalescent",
+      "shimmering"
+    ],
+    "ant": [
+      "dull"
+    ],
+    "ex": {
+      "en": "The beetle's shell was iridescent, shifting from green to copper as the specimen was turned in the light.",
+      "zh": "这只甲虫的壳闪着虹彩，标本在光里转动时从绿色变成铜色。"
+    },
+    "col": [
+      "iridescent colors｜虹彩",
+      "iridescent shell｜彩虹色的外壳"
+    ],
+    "fam": [
+      "iridescence (n.)"
+    ],
+    "tip": "拉丁 iris“虹”加 -escent“正在变得”。",
+    "note": "iridescent 是随角度变色的虹彩，不是单纯发亮。dull 只表示无光泽，无严格反义词。iris 作“虹膜”是引申，不要倒推词义。"
+  },
+  "resilience": {
+    "us": "/rɪˈzɪljəns/",
+    "syn": [
+      "toughness",
+      "elasticity"
+    ],
+    "ant": [
+      "fragility"
+    ],
+    "ex": {
+      "en": "The study measured the resilience of coral reefs, asking how quickly they recovered after a bleaching event.",
+      "zh": "这项研究衡量珊瑚礁的恢复力，考察白化之后它们能多快复原。"
+    },
+    "col": [
+      "emotional resilience｜情绪韧性",
+      "show resilience｜表现出恢复力"
+    ],
+    "fam": [
+      "resilient (adj.)",
+      "resile (v.)"
+    ],
+    "tip": "拉丁 re-（回）加 salire“跳”：受压后弹回来。",
+    "note": "既可指材料的弹性，也可指人或生态系统受挫后的恢复力。resile 是少用的“弹回、退回”。"
+  },
+  "unduly": {
+    "us": "/ʌnˈduːli/",
+    "syn": [
+      "excessively",
+      "unfairly"
+    ],
+    "ant": [
+      "duly"
+    ],
+    "ex": {
+      "en": "The editor warned that the headline unduly alarmed readers by suggesting a local outbreak was already national.",
+      "zh": "编辑警告说，这个标题暗示局部疫情已经全国蔓延，从而不恰当地惊吓了读者。"
+    },
+    "col": [
+      "unduly harsh｜过分严厉",
+      "unduly influenced｜受到不当影响"
+    ],
+    "fam": [
+      "undue (adj.)",
+      "duly (adv.)"
+    ],
+    "tip": "un-（不）加 duly；due 表示“适当、应得”。",
+    "note": "unduly 既是“过度地”，也是“不适当地”。不要和 undo（撤销）的副词形式相混，undo 没有 unduly 这个副词。"
+  },
+  "hymn": {
+    "us": "/hɪm/",
+    "syn": [
+      "anthem",
+      "psalm"
+    ],
+    "ant": [
+      "dirge"
+    ],
+    "ex": {
+      "en": "The congregation sang a hymn whose words, printed in the program, asked for peace after years of war.",
+      "zh": "会众唱起一首赞美诗，节目单上的歌词祈求多年战争之后的和平。"
+    },
+    "col": [
+      "sing a hymn｜唱赞美诗",
+      "hymn of praise｜赞歌"
+    ],
+    "fam": [
+      "hymnal (n.)",
+      "hymn (v.)"
+    ],
+    "tip": "希腊 hymnos“赞歌”，进入英语后没有可拆词缀。",
+    "note": "hymn 与 him 同音，不要听音写错。dirge 是哀歌，只是题材对照，无严格反义词。"
+  },
+  "porous": {
+    "us": "/ˈpɔrəs/",
+    "syn": [
+      "permeable",
+      "absorbent"
+    ],
+    "ant": [
+      "impermeable"
+    ],
+    "ex": {
+      "en": "Because the limestone is porous, rainwater seeps downward and enlarges the caves beneath the plateau.",
+      "zh": "因为石灰岩多孔，雨水向下渗透，并扩大高原下方的洞穴。"
+    },
+    "col": [
+      "porous rock｜多孔岩石",
+      "porous border｜管控松弛的边界"
+    ],
+    "fam": [
+      "pore (n.)",
+      "porosity (n.)"
+    ],
+    "tip": "希腊 poros“通道、孔”加形容词后缀 -ous。",
+    "note": "多孔所以能透过液体或气体。比喻 porous border 是“容易渗透的边界”。不要和 porous 的动词 pore over（仔细阅读）相混。"
+  },
+  "baffle": {
+    "us": "/ˈbæfəl/",
+    "syn": [
+      "perplex",
+      "frustrate"
+    ],
+    "ant": [
+      "clarify"
+    ],
+    "ex": {
+      "en": "The inconsistent results continued to baffle the chemists, who repeated the trial under stricter controls.",
+      "zh": "前后不一的结果继续使化学家困惑，他们在更严格的对照下重复了试验。"
+    },
+    "col": [
+      "baffle researchers｜使研究者困惑",
+      "baffle attempts｜挫败企图"
+    ],
+    "fam": [
+      "baffling (adj.)",
+      "baffle (n.)"
+    ],
+    "tip": "十六世纪出现，词源不明，不要给 baffle 编一个拉丁词根。",
+    "note": "动词是“使困惑”或“阻碍”。名词 baffle 可以是改变流向的挡板。clarify 对照的是“解惑”，不是挡板的反义词。"
+  },
+  "protocol": {
+    "us": "/ˈproʊtəˌkɔl/",
+    "syn": [
+      "procedure",
+      "etiquette"
+    ],
+    "ant": [
+      "improvisation"
+    ],
+    "ex": {
+      "en": "Under the laboratory protocol, every sample had to be labeled twice before it left the bench.",
+      "zh": "按照实验室规程，每份样品离开实验台之前都必须贴两次标签。"
+    },
+    "col": [
+      "follow protocol｜遵守规程",
+      "diplomatic protocol｜外交礼仪"
+    ],
+    "fam": [
+      "protocol (v.)"
+    ],
+    "tip": "希腊 prōtos“第一”加 kolla“胶”：原指粘在卷宗前面的第一页。",
+    "note": "既是正式程序，也是外交礼仪。improvisation 是不按成规，只能算对照，无严格反义词。"
+  },
+  "potency": {
+    "us": "/ˈpoʊtənsi/",
+    "syn": [
+      "strength",
+      "efficacy"
+    ],
+    "ant": [
+      "weakness"
+    ],
+    "ex": {
+      "en": "Pharmacologists tested the potency of the extract by measuring how little was needed to slow the infection.",
+      "zh": "药理学家通过测量只需多少提取物就能减缓感染，来检验它的效力。"
+    },
+    "col": [
+      "high potency｜高效力",
+      "lose potency｜失去效力"
+    ],
+    "fam": [
+      "potent (adj.)",
+      "impotent (adj.)"
+    ],
+    "tip": "拉丁 posse“能够”的词根 pot-，同根还有 potential。",
+    "note": "potency 是效力或潜能。potential 是“潜在的可能性”，不一定已经有药效。impotent 是“无力的”。"
+  },
+  "consolidate": {
+    "us": "/kənˈsɑləˌdeɪt/",
+    "syn": [
+      "strengthen",
+      "merge"
+    ],
+    "ant": [
+      "fragment"
+    ],
+    "ex": {
+      "en": "The king sought to consolidate his power by merging the rival courts into a single royal tribunal.",
+      "zh": "国王试图把相互竞争的法庭合并成一个王家法庭，从而巩固自己的权力。"
+    },
+    "col": [
+      "consolidate power｜巩固权力",
+      "consolidate into｜合并为"
+    ],
+    "fam": [
+      "consolidation (n.)",
+      "solid (adj.)"
+    ],
+    "tip": "拉丁 con-（一起）加 solidus“坚实的”。",
+    "note": "既可指合并，也可指使已有的地位更稳固。fragment 对照的是拆散，不一定是唯一反义。"
+  },
+  "toil": {
+    "us": "/tɔɪl/",
+    "syn": [
+      "labor",
+      "drudge"
+    ],
+    "ant": [
+      "rest"
+    ],
+    "ex": {
+      "en": "Miners continued to toil in the narrow shafts, hauling ore by hand long after sunset.",
+      "zh": "矿工继续在狭窄的矿井里苦干，日落后很久仍在用手把矿石拖出来。"
+    },
+    "col": [
+      "toil away｜埋头苦干",
+      "toil in the fields｜在田间辛劳"
+    ],
+    "fam": [
+      "toil (n.)",
+      "toilsome (adj.)"
+    ],
+    "tip": "古法语“挣扎、劳苦”，拉丁词源有争议，不要拆成 toy 之类的假词根。",
+    "note": "动词是辛劳，名词是苦活。不要和 toilet 联想。rest 表示停下不再劳动。"
+  },
+  "slumber": {
+    "us": "/ˈslʌmbɚ/",
+    "syn": [
+      "sleep",
+      "doze"
+    ],
+    "ant": [
+      "awaken"
+    ],
+    "ex": {
+      "en": "The child would slumber only when the carriage wheels kept up their steady rhythm on the road.",
+      "zh": "只有马车轮子在路上保持稳定的节奏时，孩子才会睡着。"
+    },
+    "col": [
+      "fall into slumber｜入睡",
+      "slumber peacefully｜安睡"
+    ],
+    "fam": [
+      "slumber (n.)",
+      "slumberous (adj.)"
+    ],
+    "tip": "古英语 slūma“睡眠”加动词词尾，没有拉丁词根。",
+    "note": "slumber 是文学用语的“睡眠”，常指较轻或安静的睡。不要和 lumber（木材；笨重地走）相混。"
+  },
+  "shimmer": {
+    "us": "/ˈʃɪmɚ/",
+    "syn": [
+      "glimmer",
+      "glisten"
+    ],
+    "ant": [
+      "dull"
+    ],
+    "ex": {
+      "en": "Heat made the distant dunes shimmer, so that travelers could not tell solid ground from mirage.",
+      "zh": "热气使远处的沙丘微微闪光，旅人分不清坚实的地面和海市蜃楼。"
+    },
+    "col": [
+      "shimmer in the light｜在光中闪烁",
+      "shimmer on the water｜在水面闪光"
+    ],
+    "fam": [
+      "shimmer (n.)",
+      "shimmery (adj.)"
+    ],
+    "tip": "古英语 scimerian，与 shine 同源，表示微弱、颤动的光。",
+    "note": "shimmer 是柔和颤动的闪光。shiver 是发抖。dull 只表示不发光，无严格反义词。"
+  },
+  "seamless": {
+    "us": "/ˈsiːmləs/",
+    "syn": [
+      "smooth",
+      "unbroken"
+    ],
+    "ant": [
+      "disjointed"
+    ],
+    "ex": {
+      "en": "The editor praised the seamless transition between the narrator's memory and the historical documents quoted.",
+      "zh": "编辑称赞叙述者的记忆与所引历史文献之间的过渡毫无接缝。"
+    },
+    "col": [
+      "seamless transition｜无缝过渡",
+      "seamless fit｜严丝合缝"
+    ],
+    "fam": [
+      "seam (n.)",
+      "seamed (adj.)"
+    ],
+    "tip": "seam“接缝”加否定后缀 -less。",
+    "note": "本义是没有接缝，比喻过程连续、不露痕迹。不要拼成 seemless。disjointed 是支离破碎的对照。"
+  },
+  "latent": {
+    "us": "/ˈleɪtənt/",
+    "syn": [
+      "dormant",
+      "hidden"
+    ],
+    "ant": [
+      "manifest"
+    ],
+    "ex": {
+      "en": "The infection remained latent for years, producing no symptoms until the patient's defenses weakened.",
+      "zh": "感染潜伏了多年，直到病人的防御力减弱才出现症状。"
+    },
+    "col": [
+      "latent talent｜潜在的才能",
+      "latent infection｜潜伏感染"
+    ],
+    "fam": [
+      "latency (n.)"
+    ],
+    "tip": "拉丁 latere“隐藏”，词根 lat- 也见于 relate 的另一来源并不相同，不要硬扯。",
+    "note": "latent 是存在但未显现。不要和 latest（最近的）或 patent（明显的；专利）相混。医学上 patent 可作 latent 的对照，表示明显的。"
+  },
+  "bout": {
+    "us": "/baʊt/",
+    "syn": [
+      "spell",
+      "round"
+    ],
+    "ant": [
+      "era"
+    ],
+    "ex": {
+      "en": "A brief bout of fever kept the explorer in camp, delaying the ascent until the following week.",
+      "zh": "一阵短暂的发热把探险家留在营地，登顶推迟到了下一周。"
+    },
+    "col": [
+      "a bout of｜一阵；一次发作",
+      "boxing bout｜拳赛的一个回合"
+    ],
+    "fam": [
+      "bout (n.)"
+    ],
+    "tip": "与古英语 byht“弯曲、一来一回”有关，后来指一次活动或一阵发作。",
+    "note": "可指疾病的一次发作，也可指比赛的一个回合。era 只强调时间很长，无严格反义词。不要和 about 连读看混。"
+  },
+  "validate": {
+    "us": "/ˈvæləˌdeɪt/",
+    "syn": [
+      "confirm",
+      "substantiate"
+    ],
+    "ant": [
+      "invalidate"
+    ],
+    "ex": {
+      "en": "Further excavations helped validate the theory that the settlement had traded with ports across the sea.",
+      "zh": "进一步的发掘帮助证实了这个定居点曾与海外港口贸易的理论。"
+    },
+    "col": [
+      "validate a theory｜验证理论",
+      "validate a claim｜确认主张"
+    ],
+    "fam": [
+      "valid (adj.)",
+      "validation (n.)"
+    ],
+    "tip": "拉丁 validus“有力的、有效的”，词根 val- 表示力量或效力，再加 -ate。",
+    "note": "validate 是证明有效或成立。口语里“认可情绪”是后起用法，阅读题通常是“验证”。不要和 valuable（有价值的）相混。"
+  },
+  "presume": {
+    "us": "/prɪˈzuːm/",
+    "syn": [
+      "assume",
+      "suppose"
+    ],
+    "ant": [
+      "ascertain"
+    ],
+    "ex": {
+      "en": "Readers should not presume that the narrator is reliable merely because the story is told in the first person.",
+      "zh": "读者不应仅仅因为故事用第一人称讲述，就假定叙述者是可靠的。"
+    },
+    "col": [
+      "presume innocence｜推定无罪",
+      "presume to｜擅自；竟敢"
+    ],
+    "fam": [
+      "presumption (n.)",
+      "presumptuous (adj.)"
+    ],
+    "tip": "拉丁 prae-（预先）加 sumere“拿取”：事先就把结论拿走。",
+    "note": "presume 是在证据不足时假定。presume to 表示“竟敢”。presumptuous 是“自以为是的”，不是“假定的”。美式发音通常没有 /j/。"
+  },
+  "pilgrim": {
+    "us": "/ˈpɪlɡrəm/",
+    "syn": [
+      "wayfarer",
+      "palmer"
+    ],
+    "ant": [
+      "settler"
+    ],
+    "ex": {
+      "en": "Each pilgrim who reached the shrine left a small token, a practice described in several medieval chronicles.",
+      "zh": "每一位抵达圣地的朝圣者都会留下一件小信物，若干中世纪编年史都记载了这一做法。"
+    },
+    "col": [
+      "religious pilgrim｜朝圣者",
+      "weary pilgrim｜疲惫的朝圣者"
+    ],
+    "fam": [
+      "pilgrimage (n.)"
+    ],
+    "tip": "拉丁 peregrinus“异乡人”，与 per-（穿过）和 ager（田地）有关。",
+    "note": "pilgrim 是为宗教目的旅行的人。大写 Pilgrims 常特指赴北美的清教徒移民。settler 是定居者，只是对照，无严格反义词。"
+  },
+  "singular": {
+    "us": "/ˈsɪŋɡjəlɚ/",
+    "syn": [
+      "unique",
+      "extraordinary"
+    ],
+    "ant": [
+      "ordinary"
+    ],
+    "ex": {
+      "en": "The critic called the painting singular, unlike any portrait produced in that city during the decade.",
+      "zh": "评论家称这幅画独一无二，不像那十年里这座城市产生的任何一幅肖像。"
+    },
+    "col": [
+      "singular achievement｜非凡的成就",
+      "singular beauty｜独特之美"
+    ],
+    "fam": [
+      "singularity (n.)",
+      "singularly (adv.)"
+    ],
+    "tip": "拉丁 singulus“单独的一个”，后来引申为“独特、非凡”。",
+    "note": "语法上的 singular 是“单数”，与 plural 相对。本条是“非凡的、独特的”，不要读成单数。"
+  },
+  "garment": {
+    "us": "/ˈɡɑrmənt/",
+    "syn": [
+      "clothing",
+      "apparel"
+    ],
+    "ant": [
+      "nakedness"
+    ],
+    "ex": {
+      "en": "The garment recovered from the tomb was linen, its dye faded but its weaving still remarkably fine.",
+      "zh": "从墓中取出的那件衣服是亚麻的，染料已褪，织法却仍然非常精细。"
+    },
+    "col": [
+      "outer garment｜外衣",
+      "traditional garment｜传统服装"
+    ],
+    "fam": [
+      "garment (v.)"
+    ],
+    "tip": "古法语 garnement，来自 garnir“装备、装饰”，与 garnish 同族。",
+    "note": "garment 是一件衣服，较正式。garnish 是装饰或配菜，不是衣服。nakedness 只是没有衣服的状态，无严格反义词。"
+  },
+  "waylaid": {
+    "us": "/ˈweɪˌleɪd/",
+    "syn": [
+      "ambushed",
+      "intercepted"
+    ],
+    "ant": [
+      "escorted"
+    ],
+    "ex": {
+      "en": "The courier was waylaid on the mountain road, and the dispatches he carried never reached the capital.",
+      "zh": "信使在山路上遭到拦截，他携带的公文始终没有送到首都。"
+    },
+    "col": [
+      "waylaid by｜被……拦住",
+      "waylaid travelers｜遭伏击的旅人"
+    ],
+    "fam": [
+      "waylay (v.)"
+    ],
+    "tip": "由 way“路”和 lay“放置、埋伏”组成：把人拦在路上。",
+    "note": "词条给的是 waylay 的过去式和过去分词，原形是 waylay。escorted 只表示有人护送，无严格反义词。"
+  },
+  "veil": {
+    "us": "/veɪl/",
+    "syn": [
+      "covering",
+      "screen"
+    ],
+    "ant": [
+      "disclosure"
+    ],
+    "ex": {
+      "en": "A veil of mist hid the ridge, forcing the surveyors to postpone their measurements until morning.",
+      "zh": "一层雾幕遮住了山脊，测量员只好把测量推迟到早晨。"
+    },
+    "col": [
+      "veil of secrecy｜保密的帷幕",
+      "bridal veil｜新娘的面纱"
+    ],
+    "fam": [
+      "veil (v.)",
+      "unveil (v.)"
+    ],
+    "tip": "拉丁 velum“帆、幕布”，英语里没有更小的词缀。",
+    "note": "名词是面纱或遮盖物，动词是掩盖。不要和 vale（山谷）同音相混。unveil 是揭开。disclosure 只是松散对照。无严格反义词。"
+  },
+  "decipher": {
+    "us": "/dɪˈsaɪfɚ/",
+    "syn": [
+      "decode",
+      "interpret"
+    ],
+    "ant": [
+      "encipher"
+    ],
+    "ex": {
+      "en": "Scholars needed decades to decipher the inscriptions, which mixed two scripts on the same stone.",
+      "zh": "学者们花了数十年才解读这些铭文，同一块石头上混用了两种文字。"
+    },
+    "col": [
+      "decipher a code｜破译密码",
+      "decipher handwriting｜辨认笔迹"
+    ],
+    "fam": [
+      "cipher (n.)",
+      "decipherment (n.)"
+    ],
+    "tip": "de- 表示“解开”，cipher 来自阿拉伯语 sifr“零”，后指密码。",
+    "note": "decipher 是破译或辨认难懂的文字。encipher 是加密。不要和 decipher 的近形 decide 或 defer 相混。"
+  },
+  "chirp": {
+    "us": "/tʃɝp/",
+    "syn": [
+      "cheep",
+      "tweet"
+    ],
+    "ant": [
+      "silence"
+    ],
+    "ex": {
+      "en": "At dawn the sparrows began to chirp in the eaves, a sound the diarist mentions every spring.",
+      "zh": "黎明时麻雀开始在屋檐下唧唧叫，日记作者每个春天都会提到这种声音。"
+    },
+    "col": [
+      "chirp softly｜轻声啁啾",
+      "chirp at dawn｜在黎明唧唧叫"
+    ],
+    "fam": [
+      "chirp (n.)"
+    ],
+    "tip": "拟声词，模仿短促的鸟叫，没有词根可拆。",
+    "note": "chirp 是短而尖的叫声，也可比喻人轻快地说话。silence 只是没有声音，无严格反义词。"
+  },
+  "demolish": {
+    "us": "/dɪˈmɑlɪʃ/",
+    "syn": [
+      "destroy",
+      "dismantle"
+    ],
+    "ant": [
+      "construct"
+    ],
+    "ex": {
+      "en": "Engineers planned to demolish the unsafe bridge only after a temporary crossing had been completed downstream.",
+      "zh": "工程师计划等下游的临时通道完工后，再拆掉这座不安全的桥。"
+    },
+    "col": [
+      "demolish a building｜拆毁建筑",
+      "demolish an argument｜驳倒论点"
+    ],
+    "fam": [
+      "demolition (n.)"
+    ],
+    "tip": "拉丁 de-（除去）加 moliri“建造、费力移动”，moles 是“大块”。",
+    "note": "既可指拆毁建筑物，也可指彻底驳倒论点。abolish 是废除制度或法律，不是拆房子。"
+  },
+  "engross": {
+    "us": "/ɪnˈɡroʊs/",
+    "syn": [
+      "absorb",
+      "captivate"
+    ],
+    "ant": [
+      "bore"
+    ],
+    "ex": {
+      "en": "The detailed map seemed to engross the general, who studied every contour before addressing his officers.",
+      "zh": "这幅详细的地图似乎完全吸引了将军，他研究了每一道等高线才向军官们讲话。"
+    },
+    "col": [
+      "engross the reader｜深深吸引读者",
+      "engross attention｜占满注意力"
+    ],
+    "fam": [
+      "engrossing (adj.)",
+      "engrossment (n.)"
+    ],
+    "tip": "来自法语 en gros“整批、全部”：把注意力全部占住。",
+    "note": "现代阅读义是“使全神贯注”。历史上还有“正式誊写文件”和“囤积”的意思。bore 是使人厌烦。"
+  },
+  "renunciation": {
+    "us": "/rɪˌnʌnsiˈeɪʃən/",
+    "syn": [
+      "rejection",
+      "relinquishment"
+    ],
+    "ant": [
+      "acceptance"
+    ],
+    "ex": {
+      "en": "Her renunciation of the inheritance surprised the family, who had assumed she would accept the estate.",
+      "zh": "她放弃继承权使家人惊讶，他们原以为她会接受这份产业。"
+    },
+    "col": [
+      "renunciation of｜对……的放弃",
+      "formal renunciation｜正式放弃声明"
+    ],
+    "fam": [
+      "renounce (v.)"
+    ],
+    "tip": "拉丁 re- 加 nuntiare“宣告”：正式宣布放弃。同根还有 announce。",
+    "note": "renunciation 是正式放弃。denunciation 是谴责。annunciation 在宗教里是“天使报喜”。不要只看 -nunciation 就当成同一个意思。"
+  },
+  "fume": {
+    "us": "/fjuːm/",
+    "syn": [
+      "seethe",
+      "smolder"
+    ],
+    "ant": [
+      "calm"
+    ],
+    "ex": {
+      "en": "The ambassador continued to fume over the insult, though advisers urged him to answer with restraint.",
+      "zh": "尽管顾问们劝他克制地回应，大使仍为这一侮辱而怒不可遏。"
+    },
+    "col": [
+      "fume at｜因……而发怒",
+      "fume with anger｜怒气冲冲"
+    ],
+    "fam": [
+      "fume (n.)",
+      "fuming (adj.)"
+    ],
+    "tip": "拉丁 fumus“烟”，词根 fum- 也见于 perfume。",
+    "note": "动词既可指冒烟，也可指压着怒火。名词常用复数 fumes“烟气”。calm 只对照发怒，无严格反义词。perfume 是“透过烟雾”的香味，不是反义词。"
+  },
+  "camouflage": {
+    "us": "/ˈkæməˌflɑʒ/",
+    "syn": [
+      "disguise",
+      "concealment"
+    ],
+    "ant": [
+      "exposure"
+    ],
+    "ex": {
+      "en": "The moth's camouflage made it nearly invisible against the bark, a defense the passage explains in detail.",
+      "zh": "这只蛾的伪装使它在树皮上几乎看不见，文章详细解释了这种防御。"
+    },
+    "col": [
+      "natural camouflage｜天然伪装",
+      "camouflage pattern｜伪装图案"
+    ],
+    "fam": [
+      "camouflage (v.)"
+    ],
+    "tip": "借自法语 camoufler“伪装”，没有英语词根可拆。",
+    "note": "名词是伪装，动词是掩饰。exposure 是暴露，可作对照。不要把词首 cam- 理解成 camera 或 camp。"
+  },
+  "credence": {
+    "us": "/ˈkriːdəns/",
+    "syn": [
+      "belief",
+      "trust"
+    ],
+    "ant": [
+      "disbelief"
+    ],
+    "ex": {
+      "en": "Few scholars give credence to the rumor, because no contemporary record mentions such a decree.",
+      "zh": "很少有学者相信这个传闻，因为没有任何同时代记录提到这样一道法令。"
+    },
+    "col": [
+      "give credence to｜相信",
+      "lend credence to｜使……更可信"
+    ],
+    "fam": [
+      "credible (adj.)",
+      "credit (n.)"
+    ],
+    "tip": "拉丁 credere“相信”，词根 cred- 也见于 credential、incredible。",
+    "note": "give credence to 是“相信某说法”。credentials 是证件，credibility 是可信度，三者不要互换。"
+  },
+  "percolate": {
+    "us": "/ˈpɝkəˌleɪt/",
+    "syn": [
+      "filter",
+      "spread"
+    ],
+    "ant": [
+      "stagnate"
+    ],
+    "ex": {
+      "en": "Ideas from the pamphlet began to percolate through provincial towns, appearing later in local sermons.",
+      "zh": "小册子里的想法开始在外省城镇慢慢传开，后来出现在当地的布道中。"
+    },
+    "col": [
+      "percolate through｜逐渐渗透",
+      "percolate down｜向下渗滤"
+    ],
+    "fam": [
+      "percolation (n.)",
+      "percolator (n.)"
+    ],
+    "tip": "拉丁 per-“穿过”加 colare“过滤”。",
+    "note": "既可指液体渗滤，也可指消息或想法慢慢传开。percolator 是渗滤式咖啡壶。stagnate 只是不流动的对照，无严格反义词。"
+  },
+  "infallible": {
+    "us": "/ɪnˈfæləbəl/",
+    "syn": [
+      "unerring",
+      "certain"
+    ],
+    "ant": [
+      "fallible"
+    ],
+    "ex": {
+      "en": "The narrator presents the captain as infallible, yet the wreck that follows quietly undermines that confidence.",
+      "zh": "叙述者把船长写成从不出错的人，随后的沉船却悄悄削弱了这种信心。"
+    },
+    "col": [
+      "infallible judgment｜绝不会错的判断",
+      "infallible method｜绝对可靠的方法"
+    ],
+    "fam": [
+      "fallible (adj.)",
+      "infallibility (n.)"
+    ],
+    "tip": "in-“不”加 fallible；拉丁 fallere 是“欺骗、出错”。",
+    "note": "infallible 是不可能错。不要和 inflatable（可充气的）看混。fallible 才是“会出错的”。"
+  },
+  "surmise": {
+    "us": "/sɚˈmaɪz/",
+    "syn": [
+      "infer",
+      "conjecture"
+    ],
+    "ant": [
+      "verify"
+    ],
+    "ex": {
+      "en": "From the empty harbor, observers could only surmise that the fleet had sailed during the night.",
+      "zh": "港口空了，观察者只能推测舰队是在夜间起航的。"
+    },
+    "col": [
+      "surmise that｜推测说",
+      "reasonably surmise｜合理地猜想"
+    ],
+    "fam": [
+      "surmise (n.)"
+    ],
+    "tip": "古法语 sur-“在上面”加 mettre“放置”：把判断放在不充分的证据之上。",
+    "note": "surmise 是没有充分证据的推测，名词和动词同形。不要和 surprise（惊喜、突袭）或 summary（摘要）相混。"
+  },
+  "stiff": {
+    "us": "/stɪf/",
+    "syn": [
+      "rigid",
+      "inflexible"
+    ],
+    "ant": [
+      "flexible"
+    ],
+    "ex": {
+      "en": "The dried leather had grown stiff, and the curator had to soften it before the binding could be opened.",
+      "zh": "干透的皮革变硬了，馆长必须先把它泡软，装帧才能打开。"
+    },
+    "col": [
+      "stiff collar｜硬领",
+      "stiff penalty｜严厉的处罚"
+    ],
+    "fam": [
+      "stiffen (v.)",
+      "stiffness (n.)"
+    ],
+    "tip": "古英语 stif“硬的”，没有可拆词缀。",
+    "note": "本条是“僵硬、难弯曲”。stiff penalty 则是“严厉的处罚”，stiff wind 是强风。不要一律理解成身体僵硬。"
+  },
+  "germination": {
+    "us": "/ˌdʒɝməˈneɪʃən/",
+    "syn": [
+      "sprouting",
+      "budding"
+    ],
+    "ant": [
+      "decay"
+    ],
+    "ex": {
+      "en": "The experiment tracked germination by counting how many seeds produced a visible shoot within ten days.",
+      "zh": "实验通过统计十天内有多少种子长出可见的芽来追踪发芽情况。"
+    },
+    "col": [
+      "seed germination｜种子发芽",
+      "germination rate｜发芽率"
+    ],
+    "fam": [
+      "germinate (v.)",
+      "germ (n.)"
+    ],
+    "tip": "拉丁 germen“芽、胚”，词根 germin- 表示开始生长。",
+    "note": "germination 是种子发芽，也可比喻思想萌生。germ 单独常指病菌，不要倒过来把发芽理解成感染。decay 只是后期腐坏，无严格反义词。"
+  },
+  "stately": {
+    "us": "/ˈsteɪtli/",
+    "syn": [
+      "dignified",
+      "majestic"
+    ],
+    "ant": [
+      "undignified"
+    ],
+    "ex": {
+      "en": "A stately procession moved toward the cathedral, its pace deliberately slow so that every guild could be seen.",
+      "zh": "庄严的行列走向大教堂，步伐故意放慢，好让每一个行会都能被看见。"
+    },
+    "col": [
+      "stately home｜宏伟的宅第",
+      "stately pace｜庄重的步伐"
+    ],
+    "fam": [
+      "stateliness (n.)",
+      "state (n.)"
+    ],
+    "tip": "state“地位、仪态”加 -ly，原意是有国事般的庄严。",
+    "note": "stately 是庄重宏伟。statement 是声明，stately 不是“国家的”。undignified 是失去尊严的对照。"
+  },
+  "ambient": {
+    "us": "/ˈæmbiənt/",
+    "syn": [
+      "surrounding",
+      "environmental"
+    ],
+    "ant": [
+      "internal"
+    ],
+    "ex": {
+      "en": "Researchers recorded the ambient temperature inside the cave, which stayed nearly constant through the summer.",
+      "zh": "研究者记录了洞内的环境温度，整个夏天它几乎保持不变。"
+    },
+    "col": [
+      "ambient temperature｜环境温度",
+      "ambient light｜环境光"
+    ],
+    "fam": [
+      "ambience (n.)"
+    ],
+    "tip": "拉丁 ambi-“四周”加 ire“走”：在周围走着的，即四周的。",
+    "note": "ambient 是周围环境的，如温度、光线或声音。ambient music 是不抢注意力的背景音乐。internal 只是位置对照，无严格反义词。不要和 ambitious（有野心的）相混。"
+  },
+  "spate": {
+    "us": "/speɪt/",
+    "syn": [
+      "flood",
+      "rush"
+    ],
+    "ant": [
+      "trickle"
+    ],
+    "ex": {
+      "en": "A spate of petitions reached the council that spring, each demanding relief after the failed harvest.",
+      "zh": "那年春天，一批请愿书涌向议会，每一份都要求在歉收之后给予救济。"
+    },
+    "col": [
+      "a spate of｜一大批",
+      "river in spate｜暴涨的河流"
+    ],
+    "fam": [
+      "spate (n.)"
+    ],
+    "tip": "原为苏格兰语，表示河水暴涨，词源不明，不要硬拆。",
+    "note": "既可指洪水，也可指短时间内的大量事物。trickle 是细流或少量，可作数量上的对照。不要和 spade（铲）或 spat（口角）相混。"
+  },
+  "ungainly": {
+    "us": "/ʌnˈɡeɪnli/",
+    "syn": [
+      "awkward",
+      "clumsy"
+    ],
+    "ant": [
+      "graceful"
+    ],
+    "ex": {
+      "en": "The young albatross looked ungainly on land, stumbling over its own feet before it reached open air.",
+      "zh": "这只年轻的信天翁在陆上显得笨拙，跌跌撞撞，直到飞入空中。"
+    },
+    "col": [
+      "ungainly gait｜笨拙的步态",
+      "ungainly movement｜不雅的动作"
+    ],
+    "fam": [
+      "gainly (adj.)",
+      "ungainliness (n.)"
+    ],
+    "tip": "un- 加 gainly；gainly 来自古诺尔斯语 gegn“合适、直的”。",
+    "note": "ungainly 是动作或体态笨拙、不雅。gainly 很少用。不要把 gain 理解成“获得”再加 -ly。"
+  },
+  "stark": {
+    "us": "/stɑrk/",
+    "syn": [
+      "harsh",
+      "bleak"
+    ],
+    "ant": [
+      "mild"
+    ],
+    "ex": {
+      "en": "The report paints a stark picture of the drought, describing wells that failed and fields left unplanted.",
+      "zh": "报告描绘了干旱的严酷景象，写到水井干涸、田地无人播种。"
+    },
+    "col": [
+      "stark contrast｜鲜明对比",
+      "stark landscape｜荒凉的景色"
+    ],
+    "fam": [
+      "starkly (adv.)",
+      "starkness (n.)"
+    ],
+    "tip": "古英语 stearc“僵硬、强烈”，没有可拆词缀。",
+    "note": "既可指荒凉严酷，也可指 stark contrast 那种“鲜明、绝对”的对照。stark naked 是“赤裸”。mild 主要对照严酷义。"
+  },
+  "clutch": {
+    "us": "/klʌtʃ/",
+    "syn": [
+      "grasp",
+      "seize"
+    ],
+    "ant": [
+      "release"
+    ],
+    "ex": {
+      "en": "The child would clutch the railing as the ferry rolled, refusing to let go until the dock appeared.",
+      "zh": "渡船摇晃时，孩子会抓住栏杆，直到码头出现才肯松手。"
+    },
+    "col": [
+      "clutch at｜拼命抓住",
+      "clutch tightly｜紧紧握住"
+    ],
+    "fam": [
+      "clutch (n.)"
+    ],
+    "tip": "可能与 clench 同源，词源并不完全确定，不要编造拉丁词根。",
+    "note": "动词是抓紧。名词还可指一窝蛋、汽车离合器，或 in the clutch“在关键时刻”。release 是松开。"
+  },
+  "configuration": {
+    "us": "/kənˌfɪɡjəˈreɪʃən/",
+    "syn": [
+      "arrangement",
+      "layout"
+    ],
+    "ant": [
+      "disarray"
+    ],
+    "ex": {
+      "en": "The configuration of the stones suggests a calendar, with gaps aligned to the sunrise on the solstice.",
+      "zh": "这些石头的布局像是一座历法，空隙对准了至日的日出方向。"
+    },
+    "col": [
+      "configuration of｜……的构造",
+      "system configuration｜系统配置"
+    ],
+    "fam": [
+      "configure (v.)"
+    ],
+    "tip": "拉丁 con- 加 figura“形状”：把各部分排成一种形态。",
+    "note": "configuration 是部分如何排列，也可指计算机配置。disarray 是杂乱，只能算松散对照，无严格反义词。"
+  },
+  "eutrophication": {
+    "us": "/juˌtroʊfəˈkeɪʃən/",
+    "syn": [
+      "nutrient enrichment",
+      "overenrichment"
+    ],
+    "ant": [
+      "oligotrophication"
+    ],
+    "ex": {
+      "en": "Runoff from the fertilized fields accelerated eutrophication, clouding the lake and reducing its oxygen.",
+      "zh": "施肥农田的径流加速了富营养化，使湖水变浑并降低了含氧量。"
+    },
+    "col": [
+      "lake eutrophication｜湖泊富营养化",
+      "accelerate eutrophication｜加速富营养化"
+    ],
+    "fam": [
+      "eutrophic (adj.)"
+    ],
+    "tip": "希腊 eu-“良好、充分”加 trophē“营养”，再加 -ation。",
+    "note": "这是水体养分过多、藻类暴长的过程。对照状态是 oligotrophic（贫营养的）。不要把 eu- 理解成“欧洲”。"
+  },
+  "restless": {
+    "us": "/ˈrɛstləs/",
+    "syn": [
+      "uneasy",
+      "fidgety"
+    ],
+    "ant": [
+      "calm"
+    ],
+    "ex": {
+      "en": "The restless audience shifted in the galleries, impatient for the vote that the speaker kept postponing.",
+      "zh": "焦躁的听众在楼座里不停挪动，不耐烦地等着发言人一再推迟的表决。"
+    },
+    "col": [
+      "grow restless｜变得不安",
+      "restless night｜不眠之夜"
+    ],
+    "fam": [
+      "restlessness (n.)",
+      "rest (n.)"
+    ],
+    "tip": "rest“休息、安宁”加 -less“没有”。",
+    "note": "restless 是无法安宁。restive 常常是“倔强不驯”，不是“想休息”。不要把二者当成同义词。"
+  },
+  "abstemious": {
+    "us": "/æbˈstiːmiəs/",
+    "syn": [
+      "temperate",
+      "sparing"
+    ],
+    "ant": [
+      "indulgent"
+    ],
+    "ex": {
+      "en": "The monk's abstemious habits, limited to bread and water, impressed visitors who expected a richer table.",
+      "zh": "这位修士只吃面包、喝水的节制习惯，让期待丰盛餐桌的来访者印象深刻。"
+    },
+    "col": [
+      "abstemious diet｜节制的饮食",
+      "abstemious habits｜饮食有节的习惯"
+    ],
+    "fam": [
+      "abstemiously (adv.)",
+      "abstemiousness (n.)"
+    ],
+    "tip": "拉丁 abs-“离开”加 temetum“酒”：远离醉人的酒食。",
+    "note": "abstemious 主要指饮食有节，不是泛指一切简朴。abstinent 更强调戒除，尤其是戒酒。不要和 abstentious 这个少用拼写纠缠。"
+  },
+  "imminent": {
+    "us": "/ˈɪmənənt/",
+    "syn": [
+      "impending",
+      "approaching"
+    ],
+    "ant": [
+      "remote"
+    ],
+    "ex": {
+      "en": "With the enemy camped across the river, an attack seemed imminent, and the city gates were barred at noon.",
+      "zh": "敌人在河对岸扎营，进攻似乎迫在眉睫，城门在中午就被闩上了。"
+    },
+    "col": [
+      "imminent danger｜迫在眉睫的危险",
+      "imminent arrival｜即将到达"
+    ],
+    "fam": [
+      "imminence (n.)",
+      "imminently (adv.)"
+    ],
+    "tip": "拉丁 in- 加 minere“突出、悬临”：已经悬在头顶，所以即将发生。",
+    "note": "imminent 是即将发生。eminent 是杰出的，immanent 是内在的。三个词只差元音，阅读里最常考 imminent。"
+  },
+  "regiment": {
+    "us": "/ˈrɛdʒəmənt/",
+    "syn": [
+      "unit",
+      "battalion"
+    ],
+    "ant": [
+      "individual"
+    ],
+    "ex": {
+      "en": "The regiment marched at dawn, leaving the town quieter than it had been since the war began.",
+      "zh": "这个团在黎明开拔，小镇随之变得比战争开始以来任何时候都更安静。"
+    },
+    "col": [
+      "infantry regiment｜步兵团",
+      "a regiment of｜一大批"
+    ],
+    "fam": [
+      "regiment (v.)",
+      "regimental (adj.)"
+    ],
+    "tip": "拉丁 regere“统治、管理”，词根 reg- 加 -ment。",
+    "note": "名词是军队的团，也可指一大群。动词 regiment 是“严格管制”。individual 只是单个人的对照，无严格反义词。"
+  },
+  "integrate": {
+    "us": "/ˈɪntəˌɡreɪt/",
+    "syn": [
+      "combine",
+      "unify"
+    ],
+    "ant": [
+      "separate"
+    ],
+    "ex": {
+      "en": "The curriculum tries to integrate field observation with laboratory analysis rather than teaching the two skills apart.",
+      "zh": "这门课程试图把野外观察和实验室分析结合起来，而不是把两种技能分开教。"
+    },
+    "col": [
+      "integrate into｜融入",
+      "integrate with｜与……结合"
+    ],
+    "fam": [
+      "integration (n.)",
+      "integral (adj.)"
+    ],
+    "tip": "拉丁 integer“完整的”，与 in-“不”和 tangere“触摸”有关：未经分割的整体。",
+    "note": "integrate 是整合成一体。integral 作形容词是“不可缺少的”，作名词是积分。integrity 是正直或完整，不是动词。"
+  },
+  "substitutionary": {
+    "us": "/ˌsʌbstəˈtuːʃəˌnɛri/",
+    "syn": [
+      "vicarious",
+      "substitutive"
+    ],
+    "ant": [
+      "original"
+    ],
+    "ex": {
+      "en": "Theologians debated the substitutionary role of the sacrifice, asking whether one life could stand in for many.",
+      "zh": "神学家们争论这次献祭的替代作用，问一条生命能否代替许多人。"
+    },
+    "col": [
+      "substitutionary atonement｜替代性赎罪",
+      "substitutionary sacrifice｜替代性的牺牲"
+    ],
+    "fam": [
+      "substitution (n.)",
+      "substitute (v.)"
+    ],
+    "tip": "拉丁 sub-“在下面、代替”加 statuere“安置”，再加 -ary。",
+    "note": "这个形容词少见，多见于神学里的替代。一般语境用 substitute 或 substitution。original 只是被代替者，无严格反义词。"
+  },
+  "weary": {
+    "us": "/ˈwɪri/",
+    "syn": [
+      "tired",
+      "fatigued"
+    ],
+    "ant": [
+      "refreshed"
+    ],
+    "ex": {
+      "en": "Weary travelers stopped at the monastery, where even a short rest was described as a mercy.",
+      "zh": "疲惫的旅人在修道院停下，书里把哪怕短暂的休息都写成一种仁慈。"
+    },
+    "col": [
+      "weary traveler｜疲倦的旅人",
+      "weary of｜厌烦"
+    ],
+    "fam": [
+      "weariness (n.)",
+      "wearily (adv.)"
+    ],
+    "tip": "古英语 wērig“疲倦的”，没有可拆的拉丁词缀。",
+    "note": "weary 是疲倦；weary of 是厌烦。wary 是“警惕的”，只差一个字母。refreshed 是休息之后的状态对照。"
+  },
+  "titular": {
+    "us": "/ˈtɪtʃəlɚ/",
+    "syn": [
+      "nominal",
+      "so-called"
+    ],
+    "ant": [
+      "effective"
+    ],
+    "ex": {
+      "en": "Though titular head of the council, the duke exercised little authority, which remained with his advisers.",
+      "zh": "公爵虽是议会名义上的首脑，却几乎不掌权，权力仍在他的顾问们手里。"
+    },
+    "col": [
+      "titular head｜名义上的首脑",
+      "titular leader｜有名无实的领袖"
+    ],
+    "fam": [
+      "title (n.)"
+    ],
+    "tip": "拉丁 titulus“称号、标题”加形容词后缀。美式发音里 t 常变成 /tʃ/。",
+    "note": "titular 常指“只有头衔、没有实权”，也可仅指“与称号有关”。effective 或 de facto 才表示实际掌权。不要和 titillate（使觉得痒或兴奋）相混。"
+  },
+  "paucity": {
+    "us": "/ˈpɔsəti/",
+    "syn": [
+      "scarcity",
+      "dearth"
+    ],
+    "ant": [
+      "abundance"
+    ],
+    "ex": {
+      "en": "The paucity of written records forces historians to rely on pottery and the layout of the ruins.",
+      "zh": "书面记录匮乏，迫使史学家依靠陶器和遗址的布局。"
+    },
+    "col": [
+      "paucity of evidence｜证据不足",
+      "paucity of resources｜资源匮乏"
+    ],
+    "fam": [
+      "paucity (n.)"
+    ],
+    "tip": "拉丁 paucus“少”，名词后缀 -ity。英语里几乎没有更常用的同根派生词。",
+    "note": "paucity 是正式的“数量少”，常接 of。poverty 更常指贫穷。不要和 paucity 的近形 obesity 或 opacity 相混。"
+  },
+  "mania": {
+    "us": "/ˈmeɪniə/",
+    "syn": [
+      "obsession",
+      "craze"
+    ],
+    "ant": [
+      "apathy"
+    ],
+    "ex": {
+      "en": "A mania for tulip bulbs swept the markets, driving prices far beyond any reasonable estimate of their worth.",
+      "zh": "对郁金香球茎的狂热席卷市场，把价格推到远超任何合理估值的程度。"
+    },
+    "col": [
+      "mania for｜对……的狂热",
+      "religious mania｜宗教狂热"
+    ],
+    "fam": [
+      "manic (adj.)",
+      "maniac (n.)"
+    ],
+    "tip": "希腊 mania“疯狂”，没有英语词缀。",
+    "note": "可指一时的社会狂热，也可指临床躁狂。manic 是形容词，maniac 是人。apathy 是冷漠，可作热情的对照。"
+  },
+  "ineligible": {
+    "us": "/ɪnˈɛlɪdʒəbəl/",
+    "syn": [
+      "unqualified",
+      "disqualified"
+    ],
+    "ant": [
+      "eligible"
+    ],
+    "ex": {
+      "en": "Candidates without two years of residence were ineligible, a rule the essay says excluded many recent migrants.",
+      "zh": "未住满两年的候选人没有资格，文章说这一规则把许多新移民排除在外。"
+    },
+    "col": [
+      "ineligible for｜没有资格获得",
+      "rule ineligible｜裁定为不合格"
+    ],
+    "fam": [
+      "eligible (adj.)",
+      "eligibility (n.)"
+    ],
+    "tip": "in-“不”加 eligible；拉丁 eligere 是“挑选出来”。",
+    "note": "ineligible 是不合格。illegible 是字迹难认。二者读音接近，意思完全不同。"
+  },
+  "synchronization": {
+    "us": "/ˌsɪŋkrənəˈzeɪʃən/",
+    "syn": [
+      "coordination",
+      "timing"
+    ],
+    "ant": [
+      "asynchrony"
+    ],
+    "ex": {
+      "en": "The synchronization of the clocks allowed observers in two cities to time the eclipse to the same second.",
+      "zh": "时钟的同步使两座城市的观察者能把日食时间精确到同一秒。"
+    },
+    "col": [
+      "clock synchronization｜时钟同步",
+      "synchronization of｜……的同步"
+    ],
+    "fam": [
+      "synchronize (v.)",
+      "synchronous (adj.)"
+    ],
+    "tip": "希腊 syn-“一起”加 khronos“时间”，再加 -ation。",
+    "note": "美式拼写是 synchronization，英式常作 synchronisation。asynchrony 是不同步。不要和 sympathy 的 syn- 理解成“同情”。"
+  },
+  "deficiency": {
+    "us": "/dɪˈfɪʃənsi/",
+    "syn": [
+      "lack",
+      "shortage"
+    ],
+    "ant": [
+      "sufficiency"
+    ],
+    "ex": {
+      "en": "A deficiency of vitamin C among the sailors produced symptoms that the ship's doctor recorded with care.",
+      "zh": "水手中的维生素 C 缺乏产生了一些症状，船医把它们仔细记录了下来。"
+    },
+    "col": [
+      "vitamin deficiency｜维生素缺乏",
+      "deficiency in｜在……方面的不足"
+    ],
+    "fam": [
+      "deficient (adj.)",
+      "deficit (n.)"
+    ],
+    "tip": "拉丁 de- 加 facere“做”：做得不够，所以缺乏。",
+    "note": "deficiency 是缺乏或缺陷。deficit 多指账目或数量上的赤字。不要和 efficiency（效率）看反了。"
+  },
+  "heterotrophic": {
+    "us": "/ˌhɛtərəˈtroʊfɪk/",
+    "syn": [
+      "other-nourished"
+    ],
+    "ant": [
+      "autotrophic"
+    ],
+    "ex": {
+      "en": "Unlike algae, a heterotrophic fungus cannot make its own food and must absorb nutrients from other organisms.",
+      "zh": "与藻类不同，异养真菌不能自己制造食物，必须从其他生物吸收养分。"
+    },
+    "col": [
+      "heterotrophic organism｜异养生物",
+      "heterotrophic nutrition｜异养营养"
+    ],
+    "fam": [
+      "heterotroph (n.)"
+    ],
+    "tip": "希腊 heteros“其他的”加 trophē“营养”，再加 -ic。",
+    "note": "heterotrophic 生物靠摄取现成有机物生活。autotrophic 生物如绿色植物能自己制造养分。不要把 hetero- 只理解成“异性”。"
+  },
+  "exile": {
+    "us": "/ˈɛɡˌzaɪl/",
+    "syn": [
+      "banishment",
+      "expulsion"
+    ],
+    "ant": [
+      "repatriation"
+    ],
+    "ex": {
+      "en": "Years of exile did not silence the poet, whose verses continued to circulate secretly in the capital.",
+      "zh": "多年的流放没有使这位诗人沉默，他的诗仍在首都秘密流传。"
+    },
+    "col": [
+      "live in exile｜流亡",
+      "political exile｜政治流放"
+    ],
+    "fam": [
+      "exile (v.)",
+      "exilic (adj.)"
+    ],
+    "tip": "拉丁 exilium，与 exul“被放逐的人”有关，ex- 表示向外。",
+    "note": "exile 既是流放这件事，也可指被流放的人。expatriate 可以是自愿旅居国外，不一定受惩罚。repatriation 是遣返回国。"
+  },
+  "hypha": {
+    "us": "/ˈhaɪfə/",
+    "syn": [
+      "filament",
+      "fungal thread"
+    ],
+    "ant": [
+      "fruiting body"
+    ],
+    "ex": {
+      "en": "Under the microscope, each hypha appears as a thin filament that branches through the decaying wood.",
+      "zh": "在显微镜下，每一根菌丝都像一条细丝，在腐木中分枝延伸。"
+    },
+    "col": [
+      "fungal hypha｜真菌菌丝",
+      "hypha tip｜菌丝顶端"
+    ],
+    "fam": [
+      "hyphae (n.)",
+      "hyphal (adj.)"
+    ],
+    "tip": "希腊 hyphē“网、织丝”，没有英语词缀。",
+    "note": "复数是 hyphae，不是 hyphas。fruiting body 是子实体，由菌丝长成，不是反义词。无严格反义词。不要和 hyphen（连字符）相混。"
+  },
+  "eternity": {
+    "us": "/ɪˈtɝnəti/",
+    "syn": [
+      "perpetuity",
+      "infinity"
+    ],
+    "ant": [
+      "transience"
+    ],
+    "ex": {
+      "en": "The inscription promises eternity to those who fall in battle, a claim the historian treats with skepticism.",
+      "zh": "铭文许诺战死者将获得永恒，史学家对这一说法持怀疑态度。"
+    },
+    "col": [
+      "for eternity｜直到永远",
+      "eternity of｜无尽的"
+    ],
+    "fam": [
+      "eternal (adj.)",
+      "eternally (adv.)"
+    ],
+    "tip": "拉丁 aeternus“永恒的”加 -ity；aevum 与“时代”有关。",
+    "note": "eternity 强调无尽的时间。infinity 更多用于数量或空间上的无限。transience 是短暂，可作对照。"
+  },
+  "proposition": {
+    "us": "/ˌprɑpəˈzɪʃən/",
+    "syn": [
+      "proposal",
+      "claim"
+    ],
+    "ant": [
+      "question"
+    ],
+    "ex": {
+      "en": "The proposition that all citizens share equal rights was radical in a society organized by inherited rank.",
+      "zh": "在一个按继承等级组织起来的社会里，全体公民权利平等这一主张是激进的。"
+    },
+    "col": [
+      "a proposition that｜……这一主张",
+      "business proposition｜商业提议"
+    ],
+    "fam": [
+      "propose (v.)",
+      "propositional (adj.)"
+    ],
+    "tip": "拉丁 pro-“向前”加 ponere“放置”：把一个说法摆到别人面前。",
+    "note": "proposition 是主张、提议，也可指数学命题。preposition 是介词。question 只是另一类句子，无严格反义词。"
+  },
+  "wend": {
+    "us": "/wɛnd/",
+    "syn": [
+      "proceed",
+      "travel"
+    ],
+    "ant": [
+      "remain"
+    ],
+    "ex": {
+      "en": "Merchants would wend their way along the ridge, avoiding the flooded valley until the road reopened.",
+      "zh": "商人们会沿着山脊前行，在道路重开之前避开被洪水淹没的山谷。"
+    },
+    "col": [
+      "wend one's way｜缓行前往",
+      "wend homeward｜走向家"
+    ],
+    "fam": [
+      "wend (v.)"
+    ],
+    "tip": "古英语 wendan“转向、去”，与 wind“蜿蜒”有关，不是拉丁词根。",
+    "note": "现代几乎只见于 wend one's way。went 历史上是 wend 的过去式，现在属于 go；wend 现在的过去式是 wended。remain 只是不走，无严格反义词。"
+  },
+  "benign": {
+    "us": "/bɪˈnaɪn/",
+    "syn": [
+      "harmless",
+      "kind"
+    ],
+    "ant": [
+      "malignant"
+    ],
+    "ex": {
+      "en": "The tumor was judged benign, and the physician assured the family that no further operation was required.",
+      "zh": "肿瘤被判定为良性，医生向家人保证不需要进一步手术。"
+    },
+    "col": [
+      "benign tumor｜良性肿瘤",
+      "benign smile｜和蔼的微笑"
+    ],
+    "fam": [
+      "benignly (adv.)",
+      "benignant (adj.)"
+    ],
+    "tip": "拉丁 bene“好”加 genus“出生、种类”：生性善良，或不造成伤害。",
+    "note": "医学上与 malignant（恶性）相对。形容人或气候时是“仁慈的、温和的”。不要和 benign 的反义 malign（诽谤；恶性的）只记一半。"
+  },
+  "chant": {
+    "us": "/tʃænt/",
+    "syn": [
+      "song",
+      "refrain"
+    ],
+    "ant": [
+      "prose"
+    ],
+    "ex": {
+      "en": "A chant rose from the crowd outside the hall, repeating the same demand until the doors were opened.",
+      "zh": "大厅外的人群中响起反复的呼喊，同一要求一直重复到大门打开。"
+    },
+    "col": [
+      "rhythmic chant｜有节奏的反复呼喊",
+      "monastic chant｜修院圣歌"
+    ],
+    "fam": [
+      "chant (v.)",
+      "chanter (n.)"
+    ],
+    "tip": "拉丁 cantare“唱”，词根 cant- 也见于 recant、cantata。",
+    "note": "名词既可指圣歌，也可指有节奏的反复口号。enchant 是“使着迷”，不是 chant 的反义。prose 只是文体对照，无严格反义词。"
+  },
+  "pore": {
+    "us": "/pɔr/",
+    "syn": [
+      "opening",
+      "orifice"
+    ],
+    "ant": [
+      "seal"
+    ],
+    "ex": {
+      "en": "Sweat escaped through each pore in the skin, a process the textbook links to cooling the body.",
+      "zh": "汗水从皮肤的每一个毛孔排出，课本把这一过程和身体散热联系起来。"
+    },
+    "col": [
+      "skin pore｜毛孔",
+      "tiny pore｜微小的孔"
+    ],
+    "fam": [
+      "porous (adj.)",
+      "porosity (n.)"
+    ],
+    "tip": "希腊 poros“通道”，与 porous 同根。",
+    "note": "名词 pore 是小孔。动词 pore over 是“仔细研读”，可能另有来源，不要理解成“在孔上”。seal 只是堵住，无严格反义词。也不要和 pour（倾倒）相混。"
+  },
+  "stem": {
+    "us": "/stɛm/",
+    "syn": [
+      "stalk",
+      "trunk"
+    ],
+    "ant": [
+      "affix"
+    ],
+    "ex": {
+      "en": "The stem of the specimen was hollow, allowing water to travel from the roots toward the leaves.",
+      "zh": "标本的茎是空的，水可以经它从根部运向叶子。"
+    },
+    "col": [
+      "plant stem｜植物的茎",
+      "word stem｜词干"
+    ],
+    "fam": [
+      "stemless (adj.)"
+    ],
+    "tip": "古英语 stemn“干、茎”，语言学里的“词干”是由此比喻而来，没有拉丁词缀。",
+    "note": "植物的茎不是 root，也不是 leaf。语言学里 stem 是词干，affix 是词缀，二者是对照而不是反义。无严格反义词。动词 stem from 是“起源于”，stem the tide 是“阻止”。"
+  },
+  "encapsulate": {
+    "us": "/ɪnˈkæpsəˌleɪt/",
+    "syn": [
+      "summarize",
+      "enclose"
+    ],
+    "ant": [
+      "elaborate"
+    ],
+    "ex": {
+      "en": "One sentence in the conclusion seems to encapsulate the argument that the author has developed over twenty pages.",
+      "zh": "结论里的一句话似乎概括了作者用二十页展开的论点。"
+    },
+    "col": [
+      "encapsulate an idea｜概括一个想法",
+      "encapsulate in｜封装在"
+    ],
+    "fam": [
+      "capsule (n.)",
+      "encapsulation (n.)"
+    ],
+    "tip": "en-“放入”加 capsule，拉丁 capsula 是“小盒”。",
+    "note": "既可指装进胶囊或外壳，也可指用很少的话概括。elaborate 对照的是展开细说。美式发音通常没有 capsule 里的 /j/。"
+  },
+  "immensity": {
+    "us": "/ɪˈmɛnsəti/",
+    "syn": [
+      "vastness",
+      "magnitude"
+    ],
+    "ant": [
+      "minuteness"
+    ],
+    "ex": {
+      "en": "Travelers wrote of the immensity of the glacier, which dwarfed every landmark they had used as a guide.",
+      "zh": "旅人写到冰川的浩瀚，它使原先用作向导的每一处地标都显得渺小。"
+    },
+    "col": [
+      "the immensity of｜……的浩瀚",
+      "immensity of space｜太空的浩瀚"
+    ],
+    "fam": [
+      "immense (adj.)",
+      "immensely (adv.)"
+    ],
+    "tip": "拉丁 in-“不”加 mensus“被测量的”：大到无法测量。",
+    "note": "immensity 是巨大或浩瀚。enormity 现在常指“穷凶极恶”，用它表示“巨大”时要小心。minuteness 是微小。"
+  },
+  "foliage": {
+    "us": "/ˈfoʊliɪdʒ/",
+    "syn": [
+      "leaves",
+      "leafage"
+    ],
+    "ant": [
+      "bareness"
+    ],
+    "ex": {
+      "en": "Dense foliage concealed the ruins until autumn, when falling leaves revealed the outline of a wall.",
+      "zh": "浓密的枝叶遮住了废墟，直到秋天落叶才露出一道墙的轮廓。"
+    },
+    "col": [
+      "dense foliage｜浓密的树叶",
+      "autumn foliage｜秋叶"
+    ],
+    "fam": [
+      "foliar (adj.)"
+    ],
+    "tip": "拉丁 folium“叶子”，经法语进入英语。",
+    "note": "foliage 是叶子的总称，通常不可数，不加 -s。bareness 只是没有叶子的状态，无严格反义词。不要和 folio（对开本）相混。"
+  },
+  "deploy": {
+    "us": "/dɪˈplɔɪ/",
+    "syn": [
+      "station",
+      "position"
+    ],
+    "ant": [
+      "withdraw"
+    ],
+    "ex": {
+      "en": "The governor chose to deploy additional guards along the river, where smugglers had crossed the night before.",
+      "zh": "总督决定沿河增派卫兵，因为走私者前一天夜里从那里过了河。"
+    },
+    "col": [
+      "deploy troops｜部署军队",
+      "deploy resources｜调配资源"
+    ],
+    "fam": [
+      "deployment (n.)"
+    ],
+    "tip": "法语 déployer，来自拉丁 dis- 加 plicare“折叠”：把折叠的东西展开并布置。",
+    "note": "deploy 是有策略地部署人员、武器或资源。employ 是雇用或使用。withdraw 是撤回。"
+  },
+  "ingest": {
+    "us": "/ɪnˈdʒɛst/",
+    "syn": [
+      "swallow",
+      "consume"
+    ],
+    "ant": [
+      "egest"
+    ],
+    "ex": {
+      "en": "Filter feeders ingest tiny particles suspended in the water, a diet the article contrasts with that of predators.",
+      "zh": "滤食动物摄入悬浮在水中的微小颗粒，文章把这种食性与捕食者的食性相对照。"
+    },
+    "col": [
+      "ingest food｜摄入食物",
+      "ingest toxins｜吞入毒素"
+    ],
+    "fam": [
+      "ingestion (n.)"
+    ],
+    "tip": "拉丁 in-“进入”加 gerere“携带”，同根还有 digest 的 gest。",
+    "note": "ingest 是吞入体内。digest 是消化，congest 是堵塞。egest 是生物学里排出未经吸收的物质，可作对照。"
+  },
+  "obviate": {
+    "us": "/ˈɑbviˌeɪt/",
+    "syn": [
+      "prevent",
+      "preclude"
+    ],
+    "ant": [
+      "necessitate"
+    ],
+    "ex": {
+      "en": "Clearer labeling would obviate the need for a separate warning, which many customers never noticed.",
+      "zh": "更清楚的标签将使单独的警告不再必要，而许多顾客从来没注意过那种警告。"
+    },
+    "col": [
+      "obviate the need｜使没有必要",
+      "obviate a difficulty｜排除困难"
+    ],
+    "fam": [
+      "obviation (n.)"
+    ],
+    "tip": "拉丁 ob-“对着”加 via“路”：挡在路上，从而预先排除。",
+    "note": "obviate 是使某事没有必要或预先避免，常接 the need。不要理解成 obvious（明显的）。necessitate 是“使成为必要”。"
+  },
+  "entail": {
+    "us": "/ɪnˈteɪl/",
+    "syn": [
+      "involve",
+      "require"
+    ],
+    "ant": [
+      "exclude"
+    ],
+    "ex": {
+      "en": "Accepting the scholarship would entail a year of service in a rural clinic after graduation.",
+      "zh": "接受这份奖学金将意味着毕业后要在乡村诊所服务一年。"
+    },
+    "col": [
+      "entail a risk｜带来风险",
+      "entail costs｜需要付出代价"
+    ],
+    "fam": [
+      "entailment (n.)"
+    ],
+    "tip": "来自古法语 taillier“切割、限定”，en- 加 tail；法律上原指限定继承。",
+    "note": "现代阅读义是“必然牵涉、需要”。不要和 retail（零售）或 detail（细节）相混。exclude 只表示不包含。无严格反义词。"
+  },
+  "partition": {
+    "us": "/pɑrˈtɪʃən/",
+    "syn": [
+      "divider",
+      "division"
+    ],
+    "ant": [
+      "union"
+    ],
+    "ex": {
+      "en": "A wooden partition divided the hall, separating the witnesses from the crowd that had come to listen.",
+      "zh": "一道木隔板把大厅分开，把证人与前来旁听的人群隔开。"
+    },
+    "col": [
+      "partition wall｜隔墙",
+      "political partition｜政治分裂"
+    ],
+    "fam": [
+      "partition (v.)"
+    ],
+    "tip": "拉丁 partire“分开”，词根 part- 表示部分，再加 -ition。",
+    "note": "既可指隔板，也可指把国家或房间分开。petition 是请愿。union 是重新合在一起的对照。"
+  },
+  "subsist": {
+    "us": "/səbˈsɪst/",
+    "syn": [
+      "survive",
+      "exist"
+    ],
+    "ant": [
+      "perish"
+    ],
+    "ex": {
+      "en": "On the island the crew had to subsist on fish and rainwater until a passing ship answered their signal.",
+      "zh": "在岛上，船员们只好靠鱼和雨水维持生命，直到一艘经过的船回应了他们的信号。"
+    },
+    "col": [
+      "subsist on｜靠……维生",
+      "barely subsist｜勉强生存"
+    ],
+    "fam": [
+      "subsistence (n.)"
+    ],
+    "tip": "拉丁 sub-“在下面”加 sistere“站立”：勉强站得住，即维持生存。",
+    "note": "subsist 强调勉强活下去，常接 on。consist of 是“由……组成”，insist 是“坚持”。perish 是死亡，可作不能继续存在的对照。"
+  },
+  "consecrate": {
+    "us": "/ˈkɑnsəˌkreɪt/",
+    "syn": [
+      "sanctify",
+      "dedicate"
+    ],
+    "ant": [
+      "desecrate"
+    ],
+    "ex": {
+      "en": "The bishop arrived to consecrate the chapel, setting it apart from the workshops that surrounded the courtyard.",
+      "zh": "主教前来祝圣这座小教堂，使它有别于围绕庭院的那些作坊。"
+    },
+    "col": [
+      "consecrate a church｜祝圣教堂",
+      "consecrate one's life to｜把一生奉献给"
+    ],
+    "fam": [
+      "consecration (n.)",
+      "sacred (adj.)"
+    ],
+    "tip": "拉丁 con- 加 sacrare“使神圣”，词根 sacr- 也见于 sacred。",
+    "note": "consecrate 是宣布为神圣或郑重奉献。desecrate 是亵渎。不要和 consecutive（连续的）相混。"
+  },
+  "majesty": {
+    "us": "/ˈmædʒəsti/",
+    "syn": [
+      "grandeur",
+      "dignity"
+    ],
+    "ant": [
+      "humility"
+    ],
+    "ex": {
+      "en": "Painters tried to convey the majesty of the canyon, though even wide canvases seemed too small for the view.",
+      "zh": "画家们试图表现峡谷的雄伟，可即便很宽的画布也似乎装不下这景色。"
+    },
+    "col": [
+      "the majesty of｜……的雄伟",
+      "Your Majesty｜陛下"
+    ],
+    "fam": [
+      "majestic (adj.)"
+    ],
+    "tip": "拉丁 majestas，来自 maior“更大的”。",
+    "note": "majesty 是威严或雄伟；Your Majesty 是对君主的称呼。humility 是谦卑，只在人格尊严这一面上形成对照，无严格反义词。不要和 major（主要的）当成名词。"
+  },
+  "shroud": {
+    "us": "/ʃraʊd/",
+    "syn": [
+      "covering",
+      "winding-sheet"
+    ],
+    "ant": [
+      "exposure"
+    ],
+    "ex": {
+      "en": "A linen shroud covered the body, its edges embroidered with symbols that archaeologists have not fully explained.",
+      "zh": "一块亚麻裹尸布盖着遗体，边缘绣着考古学家尚未完全解释的符号。"
+    },
+    "col": [
+      "burial shroud｜裹尸布",
+      "shroud of mist｜雾幕"
+    ],
+    "fam": [
+      "shroud (v.)"
+    ],
+    "tip": "古英语 scrūd 原指“衣服”，后来专指裹尸布或任何覆盖物。",
+    "note": "名词是寿衣或覆盖物，动词是遮蔽。不要和 shrewd（精明的）相混。exposure 是暴露，无严格反义词。"
+  },
+  "confer": {
+    "us": "/kənˈfɝ/",
+    "syn": [
+      "bestow",
+      "consult"
+    ],
+    "ant": [
+      "withhold"
+    ],
+    "ex": {
+      "en": "The university voted to confer the honorary degree only after reviewing the candidate's published research.",
+      "zh": "大学投票决定，只有在审阅候选人已发表的研究之后才授予荣誉学位。"
+    },
+    "col": [
+      "confer a degree｜授予学位",
+      "confer with｜与……商议"
+    ],
+    "fam": [
+      "conferment (n.)",
+      "conference (n.)"
+    ],
+    "tip": "拉丁 con- 加 ferre“带来”：带到一起商量，或把荣誉带来授予。",
+    "note": "confer a title 是授予；confer with 是商议。不要和 infer（推断）或 refer（提及）相混。withhold 只对照授予。商议义无严格反义词。"
+  },
+  "tenure": {
+    "us": "/ˈtɛnjɚ/",
+    "syn": [
+      "incumbency",
+      "term"
+    ],
+    "ant": [
+      "dismissal"
+    ],
+    "ex": {
+      "en": "Her tenure as director lasted six years, during which the museum doubled the size of its public collection.",
+      "zh": "她担任馆长的任期有六年，其间博物馆的公开藏品规模扩大了一倍。"
+    },
+    "col": [
+      "tenure of office｜任职期间",
+      "academic tenure｜终身教职"
+    ],
+    "fam": [
+      "tenured (adj.)",
+      "tenurial (adj.)"
+    ],
+    "tip": "拉丁 tenere“持有”，词根 ten- 表示抓住、保有。",
+    "note": "tenure 是任职或占有的期间；在高校里常指终身教职。tenuous 是“纤细的、站不住的”，不是“有任期的”。dismissal 只是任职结束的一种方式，无严格反义词。"
+  },
+  "imprudence": {
+    "us": "/ɪmˈpruːdns/",
+    "syn": [
+      "rashness",
+      "recklessness"
+    ],
+    "ant": [
+      "prudence"
+    ],
+    "ex": {
+      "en": "The general's imprudence, advancing without scouts, left the column exposed to an attack from the woods.",
+      "zh": "将军轻率地不派侦察就前进，使纵队暴露在来自林中的攻击之下。"
+    },
+    "col": [
+      "act of imprudence｜轻率之举",
+      "youthful imprudence｜年少轻率"
+    ],
+    "fam": [
+      "imprudent (adj.)",
+      "prudence (n.)"
+    ],
+    "tip": "im-“不”加 prudence；拉丁 providere 是“预先看见”，所以谨慎与预见有关。",
+    "note": "imprudence 是缺乏谨慎。impudence 是鲁莽无礼、厚颜。二者词根不同，不要看混。"
+  },
+  "contour": {
+    "us": "/ˈkɑnˌtʊr/",
+    "syn": [
+      "outline",
+      "profile"
+    ],
+    "ant": [
+      "interior"
+    ],
+    "ex": {
+      "en": "The contour of the coastline, jagged and full of inlets, is drawn carefully on the navigator's chart.",
+      "zh": "这道参差不齐、港湾密布的海岸轮廓，被仔细画在航海图上。"
+    },
+    "col": [
+      "contour of｜……的轮廓",
+      "contour line｜等高线"
+    ],
+    "fam": [
+      "contour (v.)"
+    ],
+    "tip": "法语 contour，来自 con- 加 tourner“转动”：绕一圈画出的外形。",
+    "note": "contour 是外形轮廓；contour line 是地图上的等高线。interior 只是内部对照，无严格反义词。不要和 counter（柜台；相反）相混。"
+  },
+  "daunt": {
+    "us": "/dɔnt/",
+    "syn": [
+      "intimidate",
+      "discourage"
+    ],
+    "ant": [
+      "embolden"
+    ],
+    "ex": {
+      "en": "The length of the voyage did not daunt the crew, who had already crossed the same ocean twice.",
+      "zh": "航程之长并没有吓倒船员，他们已经两次渡过同一片大洋。"
+    },
+    "col": [
+      "daunt the enemy｜使敌人畏缩",
+      "nothing daunts｜没有什么能吓倒"
+    ],
+    "fam": [
+      "daunting (adj.)",
+      "dauntless (adj.)"
+    ],
+    "tip": "古法语 danter，来自拉丁 domitare，是 domare“驯服”的反复形式。",
+    "note": "daunt 是使畏缩。daunting 是令人生畏的，dauntless 是无畏的。不要和 haunt（萦绕、出没）相混。"
+  },
+  "forge": {
+    "us": "/fɔrdʒ/",
+    "syn": [
+      "counterfeit",
+      "fabricate"
+    ],
+    "ant": [
+      "authenticate"
+    ],
+    "ex": {
+      "en": "Working at night, the conspirators tried to forge the official seal and attach it to a false decree.",
+      "zh": "密谋者趁夜伪造官方印玺，并把它盖到一道假法令上。"
+    },
+    "col": [
+      "forge a signature｜伪造签名",
+      "forge steel｜锻造钢铁"
+    ],
+    "fam": [
+      "forge (n.)",
+      "forgery (n.)"
+    ],
+    "tip": "拉丁 fabrica“作坊”，经古法语表示打造；由“打造”引申为“伪造”。",
+    "note": "既可指锻造金属，也可指伪造。forge ahead 是“稳步前进”，不是伪造。authenticate 对照的是辨明真伪。名词 forge 还可以是铁匠炉。"
+  },
+  "robust": {
+    "us": "/roʊˈbʌst/",
+    "syn": [
+      "sturdy",
+      "vigorous"
+    ],
+    "ant": [
+      "frail"
+    ],
+    "ex": {
+      "en": "The conclusion rests on robust evidence, including surveys repeated in three regions over ten years.",
+      "zh": "这一结论建立在有力的证据上，包括十年间在三个地区重复进行的调查。"
+    },
+    "col": [
+      "robust health｜强健的体魄",
+      "robust evidence｜有力的证据"
+    ],
+    "fam": [
+      "robustness (n.)",
+      "robustly (adv.)"
+    ],
+    "tip": "拉丁 robustus“如橡树般强壮”，来自 robur“橡木、力量”。",
+    "note": "robust 可指身体强健、证据扎实或系统耐用。frail 是脆弱。不要和 robusta（咖啡品种名）当成英语词缀。"
+  },
+  "languish": {
+    "us": "/ˈlæŋɡwɪʃ/",
+    "syn": [
+      "weaken",
+      "decline"
+    ],
+    "ant": [
+      "flourish"
+    ],
+    "ex": {
+      "en": "Without funding, the archive began to languish, and rare manuscripts remained uncatalogued in a damp cellar.",
+      "zh": "没有经费后，档案馆开始衰败，珍稀手稿一直未编目，堆在潮湿的地窖里。"
+    },
+    "col": [
+      "languish in prison｜在狱中憔悴",
+      "languish for｜因渴望……而憔悴"
+    ],
+    "fam": [
+      "languid (adj.)",
+      "languor (n.)"
+    ],
+    "tip": "拉丁 languere“虚弱、无力”，词根 langu-。",
+    "note": "languish 是慢慢衰弱，或在被忽视的处境中受苦。languid 是无精打采的，languor 是倦怠。flourish 是兴旺。不要和 language 相混。"
+  },
+  "annihilation": {
+    "us": "/əˌnaɪəˈleɪʃən/",
+    "syn": [
+      "destruction",
+      "eradication"
+    ],
+    "ant": [
+      "preservation"
+    ],
+    "ex": {
+      "en": "The treaty was meant to prevent the annihilation of the smaller state, whose army could not resist alone.",
+      "zh": "条约意在防止这个较小的国家被彻底消灭，因为它的军队无法独自抵抗。"
+    },
+    "col": [
+      "total annihilation｜彻底歼灭",
+      "threat of annihilation｜毁灭的威胁"
+    ],
+    "fam": [
+      "annihilate (v.)"
+    ],
+    "tip": "拉丁 ad- 加 nihil“无”：使变成乌有。",
+    "note": "annihilation 是彻底毁灭，不留剩余。preservation 是保存。不要和 nomination（提名）或 alienation（疏远）看混。"
+  },
+  "mourn": {
+    "us": "/mɔrn/",
+    "syn": [
+      "grieve",
+      "lament"
+    ],
+    "ant": [
+      "rejoice"
+    ],
+    "ex": {
+      "en": "Citizens gathered to mourn the architect, whose bridges still carried traffic across the river.",
+      "zh": "市民聚集起来哀悼这位建筑师，他修建的桥仍载着车辆过河。"
+    },
+    "col": [
+      "mourn the dead｜哀悼死者",
+      "mourn a loss｜为损失悲伤"
+    ],
+    "fam": [
+      "mourner (n.)",
+      "mournful (adj.)"
+    ],
+    "tip": "古英语 murnan“悲伤”，没有拉丁词缀。",
+    "note": "mourn 是为损失哀痛，可接人或事物。不要和 morn（早晨）或 moon 同音相混。rejoice 是欢庆。"
+  },
+  "ratify": {
+    "us": "/ˈrætəˌfaɪ/",
+    "syn": [
+      "approve",
+      "confirm"
+    ],
+    "ant": [
+      "reject"
+    ],
+    "ex": {
+      "en": "Delegates met to ratify the amendment, and the vote, once recorded, made the change part of the constitution.",
+      "zh": "代表们开会批准这项修正案，表决一经记录，修改就成了宪法的一部分。"
+    },
+    "col": [
+      "ratify a treaty｜批准条约",
+      "ratify an amendment｜批准修正案"
+    ],
+    "fam": [
+      "ratification (n.)"
+    ],
+    "tip": "拉丁 ratus“算定、批准的”加 -ify“使……”。",
+    "note": "ratify 是正式批准，使协议或修正案生效。rectify 是“纠正”。不要把这两个 -ify 动词看混。"
+  },
+  "cryptography": {
+    "us": "/krɪpˈtɑɡrəfi/",
+    "syn": [
+      "ciphering",
+      "code-making"
+    ],
+    "ant": [
+      "plaintext"
+    ],
+    "ex": {
+      "en": "The course introduces cryptography by showing how a simple substitution cipher both hides and reveals a message.",
+      "zh": "这门课介绍密码学，说明一种简单的替换密码如何既隐藏又揭示信息。"
+    },
+    "col": [
+      "study cryptography｜研究密码学",
+      "public-key cryptography｜公钥密码学"
+    ],
+    "fam": [
+      "cryptographic (adj.)",
+      "cryptographer (n.)"
+    ],
+    "tip": "希腊 kryptos“隐藏的”加 graphein“书写”。",
+    "note": "cryptography 是研究和设计密码的学科。cryptogram 是一条密文。plaintext 是未加密的原文，不是这门学科的反义词。无严格反义词。"
+  },
+  "reprise": {
+    "us": "/rɪˈpriːz/",
+    "syn": [
+      "repetition",
+      "restatement"
+    ],
+    "ant": [
+      "premiere"
+    ],
+    "ex": {
+      "en": "The final reprise of the opening theme reminded listeners how far the symphony had traveled from its first bars.",
+      "zh": "开头主题的最后一次再现提醒听众，这部交响曲已经离开最初几个小节有多远。"
+    },
+    "col": [
+      "final reprise｜最后的再现",
+      "musical reprise｜音乐上的重现"
+    ],
+    "fam": [
+      "reprise (v.)"
+    ],
+    "tip": "法语 reprendre“再取”，re- 加 prise“拿取”。",
+    "note": "reprise 是音乐或表演中的重复再现。reprisal 是报复。premiere 只是首演对照，无严格反义词。"
+  },
+  "rejuvenate": {
+    "us": "/rɪˈdʒuːvəˌneɪt/",
+    "syn": [
+      "renew",
+      "revitalize"
+    ],
+    "ant": [
+      "age"
+    ],
+    "ex": {
+      "en": "A season of rain seemed to rejuvenate the orchard, which produced fruit after three barren years.",
+      "zh": "一季雨水似乎使果园恢复了活力，它在荒芜三年之后又结出了果实。"
+    },
+    "col": [
+      "rejuvenate the economy｜使经济恢复活力",
+      "rejuvenate the skin｜使皮肤变年轻"
+    ],
+    "fam": [
+      "rejuvenation (n.)",
+      "juvenile (adj.)"
+    ],
+    "tip": "re-“再”加拉丁 juvenis“年轻的”。",
+    "note": "rejuvenate 是使恢复年轻或活力。juvenile 是“青少年的”，不是“恢复活力的”。age 作动词是变老。"
+  },
+  "blab": {
+    "us": "/blæb/",
+    "syn": [
+      "disclose",
+      "chatter"
+    ],
+    "ant": [
+      "conceal"
+    ],
+    "ex": {
+      "en": "The aide was warned not to blab about the negotiations, whose terms had not yet been made public.",
+      "zh": "有人警告这名助手不要把谈判说出去，因为条款尚未公开。"
+    },
+    "col": [
+      "blab a secret｜泄露秘密",
+      "blab to｜向……乱说"
+    ],
+    "fam": [
+      "blabber (v.)"
+    ],
+    "tip": "中古英语拟声词，模仿喋喋不休，没有词根可拆。",
+    "note": "blab 是不小心或管不住嘴而泄密，也可指唠叨。blabber 更强调说个不停。conceal 是隐瞒。"
+  },
+  "ponder": {
+    "us": "/ˈpɑndɚ/",
+    "syn": [
+      "consider",
+      "contemplate"
+    ],
+    "ant": [
+      "dismiss"
+    ],
+    "ex": {
+      "en": "In the final chapter the narrator pauses to ponder whether loyalty to a friend can excuse a public lie.",
+      "zh": "在最后一章，叙述者停下来思索：对朋友的忠诚能否为当众说谎开脱。"
+    },
+    "col": [
+      "ponder a question｜思考一个问题",
+      "ponder over｜仔细考虑"
+    ],
+    "fam": [
+      "ponderous (adj.)"
+    ],
+    "tip": "拉丁 ponderare，来自 pondus“重量”：把事情掂量一番。",
+    "note": "ponder 是认真思考。ponderous 多指“笨重的、沉闷的”，不是“深思的”。dismiss 只是不加考虑，无严格反义词。"
+  },
+  "torpor": {
+    "us": "/ˈtɔrpɚ/",
+    "syn": [
+      "lethargy",
+      "sluggishness"
+    ],
+    "ant": [
+      "vigor"
+    ],
+    "ex": {
+      "en": "Winter torpor slows the animal's heartbeat, allowing it to survive months when food is scarce.",
+      "zh": "冬季的蛰伏减慢了这种动物的心跳，使它能在食物稀少的几个月里活下来。"
+    },
+    "col": [
+      "winter torpor｜冬眠般的迟钝",
+      "mental torpor｜精神麻木"
+    ],
+    "fam": [
+      "torpid (adj.)"
+    ],
+    "tip": "拉丁 torpere“麻木”，词根 torp-。",
+    "note": "torpor 既可指动物的生理蛰伏，也可指精神迟钝。stupor 更接近昏迷或神志不清。vigor 是活力。"
+  },
+  "sprout": {
+    "us": "/spraʊt/",
+    "syn": [
+      "germinate",
+      "bud"
+    ],
+    "ant": [
+      "wither"
+    ],
+    "ex": {
+      "en": "Seeds stored in the dry cave refused to sprout until researchers supplied both moisture and warmth.",
+      "zh": "存放在干燥洞穴里的种子不肯发芽，直到研究者同时提供了水分和温暖。"
+    },
+    "col": [
+      "sprout from｜从……长出",
+      "sprout leaves｜长出叶子"
+    ],
+    "fam": [
+      "sprout (n.)"
+    ],
+    "tip": "古英语 sprūtan“发芽”，没有可拆词缀。",
+    "note": "动词是开始生长，名词是新芽。不要和 spout（喷出）相混。wither 是之后的枯萎。无严格反义词。"
+  },
+  "clinch": {
+    "us": "/klɪntʃ/",
+    "syn": [
+      "secure",
+      "settle"
+    ],
+    "ant": [
+      "jeopardize"
+    ],
+    "ex": {
+      "en": "A late goal was enough to clinch the championship, ending a season that had begun with three defeats.",
+      "zh": "一个迟到的进球足以锁定冠军，结束了以三连败开始的赛季。"
+    },
+    "col": [
+      "clinch a deal｜敲定交易",
+      "clinch the title｜锁定冠军"
+    ],
+    "fam": [
+      "clincher (n.)",
+      "clench (v.)"
+    ],
+    "tip": "clinch 是 clench“握紧”的变体，后来表示把事情敲定。",
+    "note": "clinch 常指最终确定胜负或协议，也可指拳击中的扭抱，或把钉子敲弯钉牢。jeopardize 是使不稳，无严格反义词。不要和 cling（紧贴）相混。"
+  },
+  "dermatology": {
+    "us": "/ˌdɝməˈtɑlədʒi/",
+    "syn": [
+      "skin medicine",
+      "cutaneous medicine"
+    ],
+    "ant": [
+      "neglect"
+    ],
+    "ex": {
+      "en": "She chose dermatology after a lecture on how the skin both protects the body and reveals systemic disease.",
+      "zh": "听完一讲皮肤如何既保护身体又显露全身疾病之后，她选择了皮肤病学。"
+    },
+    "col": [
+      "clinical dermatology｜临床皮肤病学",
+      "dermatology clinic｜皮肤科诊所"
+    ],
+    "fam": [
+      "dermatologist (n.)",
+      "dermal (adj.)"
+    ],
+    "tip": "希腊 derma“皮肤”加 -logy“学科”。",
+    "note": "dermatology 是研究皮肤及皮肤病的医学分支。epidermis 是表皮，不是这门学科。无严格反义词。"
+  },
+  "eccentric": {
+    "us": "/ɪkˈsɛntrɪk/",
+    "syn": [
+      "unconventional",
+      "odd"
+    ],
+    "ant": [
+      "conventional"
+    ],
+    "ex": {
+      "en": "Neighbors called the inventor eccentric because he tested his machines in the street at midnight.",
+      "zh": "邻居们说这位发明家古怪，因为他半夜在街上试验自己的机器。"
+    },
+    "col": [
+      "eccentric behavior｜古怪的行为",
+      "eccentric orbit｜偏心轨道"
+    ],
+    "fam": [
+      "eccentricity (n.)"
+    ],
+    "tip": "希腊 ek-“出”加 kentron“中心”：偏离中心。",
+    "note": "形容人时是行为古怪。几何或天文里指轨道或圆不在中心。concentric 是同心的，只对照几何义。"
+  },
+  "haphazard": {
+    "us": "/ˌhæpˈhæzɚd/",
+    "syn": [
+      "random",
+      "unplanned"
+    ],
+    "ant": [
+      "systematic"
+    ],
+    "ex": {
+      "en": "The notes were haphazard, mixing dates, sketches, and quotations without the order a later editor would need.",
+      "zh": "这些笔记杂乱无章，日期、草图和引文混在一起，没有后来的编者所需要的顺序。"
+    },
+    "col": [
+      "haphazard arrangement｜杂乱的安排",
+      "haphazard manner｜随意的方式"
+    ],
+    "fam": [
+      "haphazardly (adv.)"
+    ],
+    "tip": "hap“偶然”加 hazard“风险、机会”：靠运气而没有计划。",
+    "note": "haphazard 是无计划、杂乱。hazardous 是危险的。不要因为都含 hazard 就当成同义词。"
+  },
+  "vigilance": {
+    "us": "/ˈvɪdʒələns/",
+    "syn": [
+      "watchfulness",
+      "alertness"
+    ],
+    "ant": [
+      "negligence"
+    ],
+    "ex": {
+      "en": "Constant vigilance by the lookouts prevented a surprise landing, though the enemy ships remained offshore.",
+      "zh": "瞭望员时刻警惕，阻止了一次突然登陆，尽管敌舰仍停在近海。"
+    },
+    "col": [
+      "constant vigilance｜时刻警惕",
+      "vigilance against｜对……的警觉"
+    ],
+    "fam": [
+      "vigilant (adj.)",
+      "vigil (n.)"
+    ],
+    "tip": "拉丁 vigil“醒着的”，词根 vigil-。",
+    "note": "vigilance 是保持警觉。vigil 是守夜。vigilante 是自行执法的人，不是“警惕的人”。negligence 是疏忽。"
+  },
+  "stern": {
+    "us": "/stɝn/",
+    "syn": [
+      "strict",
+      "severe"
+    ],
+    "ant": [
+      "lenient"
+    ],
+    "ex": {
+      "en": "A stern warning from the captain ended the argument, and the crew returned to their posts in silence.",
+      "zh": "船长一句严厉的警告结束了争论，船员们默默回到各自的岗位。"
+    },
+    "col": [
+      "stern warning｜严厉警告",
+      "stern expression｜严厉的表情"
+    ],
+    "fam": [
+      "sternly (adv.)",
+      "sternness (n.)"
+    ],
+    "tip": "形容词来自古英语 styrne“严厉的”，没有可拆词缀。",
+    "note": "本条是形容词“严厉的”。名词 stern 表示船尾，来源不同。lenient 是宽大的。不要和 sternum（胸骨）相混。"
+  },
+  "celestial": {
+    "us": "/səˈlɛstʃəl/",
+    "syn": [
+      "heavenly",
+      "astronomical"
+    ],
+    "ant": [
+      "terrestrial"
+    ],
+    "ex": {
+      "en": "Ancient observers mapped celestial motion, recording where each planet appeared against the fixed stars.",
+      "zh": "古代观测者绘制天体的运动，记录每颗行星相对恒星出现的位置。"
+    },
+    "col": [
+      "celestial body｜天体",
+      "celestial navigation｜天文导航"
+    ],
+    "fam": [
+      "celestially (adv.)"
+    ],
+    "tip": "拉丁 caelum“天空”加 -al。美式发音常把 ti 读成 /tʃ/。",
+    "note": "celestial 指天空或天体的，也可指天国的。terrestrial 是大地的、地球的。不要和 celibate（独身的）相混。"
+  },
+  "tentacle": {
+    "us": "/ˈtɛntəkəl/",
+    "syn": [
+      "feeler",
+      "appendage"
+    ],
+    "ant": [
+      "torso"
+    ],
+    "ex": {
+      "en": "The octopus wrapped a tentacle around the jar, demonstrating the flexibility the biologist had described.",
+      "zh": "章鱼用一条触手缠住罐子，正表现出生物学家所描述的那种灵活性。"
+    },
+    "col": [
+      "flexible tentacle｜灵活的触手",
+      "tentacle tip｜触手末端"
+    ],
+    "fam": [
+      "tentacled (adj.)"
+    ],
+    "tip": "拉丁 tentare“触摸、试探”，触手是用来探触的附肢。",
+    "note": "tentacle 是柔软的触手或触角。tentative 是“试探性的”，同出试探这一词源，但不是触手。torso 只是躯干对照，无严格反义词。"
+  },
+  "vacillate": {
+    "us": "/ˈvæsəˌleɪt/",
+    "syn": [
+      "waver",
+      "hesitate"
+    ],
+    "ant": [
+      "decide"
+    ],
+    "ex": {
+      "en": "The committee began to vacillate, endorsing the plan one week and demanding revisions the next.",
+      "zh": "委员会开始摇摆不定，这一周赞成计划，下一周又要求修改。"
+    },
+    "col": [
+      "vacillate between｜在……之间犹豫",
+      "vacillate on｜对……拿不定主意"
+    ],
+    "fam": [
+      "vacillation (n.)"
+    ],
+    "tip": "拉丁 vacillare“摇摆”，没有英语前缀可拆。",
+    "note": "vacillate 是在决定之间反复。oscillate 是物理上的来回摆动，或在两极之间规律变化。decide 是做出决定。"
+  },
+  "frantic": {
+    "us": "/ˈfræntɪk/",
+    "syn": [
+      "frenzied",
+      "desperate"
+    ],
+    "ant": [
+      "calm"
+    ],
+    "ex": {
+      "en": "Frantic efforts to save the manuscripts continued through the night as smoke spread across the library.",
+      "zh": "烟雾在图书馆里蔓延，人们通宵狂乱地抢救手稿。"
+    },
+    "col": [
+      "frantic effort｜狂乱的努力",
+      "frantic pace｜忙乱的节奏"
+    ],
+    "fam": [
+      "frantically (adv.)",
+      "frenetic (adj.)"
+    ],
+    "tip": "来自 frenetic，希腊 phrēn“心智”：心智错乱般的激动。",
+    "note": "frantic 是焦虑忙乱。frenetic 更强调狂热、停不下来。二者近义，不是反义。calm 是平静。"
+  },
+  "forestall": {
+    "us": "/fɔrˈstɔl/",
+    "syn": [
+      "preempt",
+      "avert"
+    ],
+    "ant": [
+      "permit"
+    ],
+    "ex": {
+      "en": "Early vaccination campaigns were intended to forestall an epidemic before it could reach the crowded port.",
+      "zh": "早期疫苗接种运动意在流行病抵达拥挤的港口之前就把它预先阻止。"
+    },
+    "col": [
+      "forestall a crisis｜预先阻止危机",
+      "forestall criticism｜预先堵住批评"
+    ],
+    "fam": [
+      "forestallment (n.)"
+    ],
+    "tip": "古英语 fore-“预先”加 steall“位置”：先占住位置，从而阻止。",
+    "note": "forestall 是提前行动以阻止。不要拆成 forest（森林）。install 是安装。permit 是允许发生，可作对照。"
+  },
+  "olfaction": {
+    "us": "/ɑlˈfækʃən/",
+    "syn": [
+      "smell",
+      "smelling"
+    ],
+    "ant": [
+      "anosmia"
+    ],
+    "ex": {
+      "en": "In many mammals olfaction guides foraging, allowing an animal to locate food it cannot yet see.",
+      "zh": "在许多哺乳动物中，嗅觉引导觅食，使动物能找到尚未看见的食物。"
+    },
+    "col": [
+      "sense of olfaction｜嗅觉",
+      "olfaction research｜嗅觉研究"
+    ],
+    "fam": [
+      "olfactory (adj.)"
+    ],
+    "tip": "拉丁 olere“发出气味”加 facere“做”。",
+    "note": "olfaction 是嗅觉这一感觉。olfactory 是形容词。anosmia 是嗅觉丧失，不是反义词。无严格反义词。也不要把 smell 只理解成难闻的气味。"
+  },
+  "smite": {
+    "us": "/smaɪt/",
+    "syn": [
+      "strike",
+      "afflict"
+    ],
+    "ant": [
+      "spare"
+    ],
+    "ex": {
+      "en": "The epic describes a hero who can smite an entire rank of soldiers with a single blow of his spear.",
+      "zh": "史诗描写一位英雄，他一矛就能击倒整整一排士兵。"
+    },
+    "col": [
+      "smite an enemy｜痛击敌人",
+      "smite with｜用……猛击"
+    ],
+    "fam": [
+      "smitten (adj.)"
+    ],
+    "tip": "古英语 smītan“打击”，过去式是 smote，过去分词是 smitten。",
+    "note": "smite 是文学语的猛击或惩罚。smitten 除了“被击中”，更常表示“着迷、爱上”。spare 是放过，无严格反义词。"
+  },
+  "threshold": {
+    "us": "/ˈθrɛʃˌhoʊld/",
+    "syn": [
+      "doorway",
+      "brink"
+    ],
+    "ant": [
+      "interior"
+    ],
+    "ex": {
+      "en": "Income below that threshold qualified a family for relief, a standard the legislature revised every few years.",
+      "zh": "收入低于这一界限的家庭有资格获得救济，立法机关每隔几年就修订这一标准。"
+    },
+    "col": [
+      "on the threshold of｜即将开始",
+      "pain threshold｜痛阈"
+    ],
+    "fam": [
+      "threshold (n.)"
+    ],
+    "tip": "古英语词，指门槛；后世常按 thresh 加 hold 来记，但那是不可靠的拆分。",
+    "note": "既是门口的门槛，也是起点或数值界限。拼写是 threshold，不要写成 threshhold。interior 只是门内对照，无严格反义词。"
+  },
+  "ailment": {
+    "us": "/ˈeɪlmənt/",
+    "syn": [
+      "illness",
+      "malady"
+    ],
+    "ant": [
+      "health"
+    ],
+    "ex": {
+      "en": "The ailment, though seldom fatal, left workers too weak to remain in the fields during harvest.",
+      "zh": "这种病虽然很少致命，却使工人虚弱得无法在收获季节留在田里。"
+    },
+    "col": [
+      "minor ailment｜小病",
+      "chronic ailment｜慢性病痛"
+    ],
+    "fam": [
+      "ail (v.)",
+      "ailing (adj.)"
+    ],
+    "tip": "古英语 eglan“使痛苦”加名词后缀 -ment。",
+    "note": "ailment 通常是不太严重的病。aliment 是食物或营养，只差一个字母。health 是健康状态的对照。"
+  },
+  "unattainable": {
+    "us": "/ˌʌnəˈteɪnəbəl/",
+    "syn": [
+      "impossible",
+      "unreachable"
+    ],
+    "ant": [
+      "attainable"
+    ],
+    "ex": {
+      "en": "For apprentices without family connections, a mastership seemed unattainable, however skilled their work became.",
+      "zh": "对没有家族关系的学徒来说，无论手艺多么好，师傅的身份似乎都高不可攀。"
+    },
+    "col": [
+      "unattainable goal｜无法实现的目标",
+      "unattainable ideal｜难以企及的理想"
+    ],
+    "fam": [
+      "attainable (adj.)",
+      "attain (v.)"
+    ],
+    "tip": "un- 加 attainable；attain 来自拉丁 ad- 加 tangere“触摸到”。",
+    "note": "unattainable 是无法达到。unobtainable 更强调拿不到某件东西。attainable 是直接反义。"
+  },
+  "valence": {
+    "us": "/ˈveɪləns/",
+    "syn": [
+      "valency",
+      "combining power"
+    ],
+    "ant": [
+      "inertness"
+    ],
+    "ex": {
+      "en": "Carbon's valence of four allows it to form the long chains that the chapter calls the basis of organic life.",
+      "zh": "碳的化合价是四，因而能形成该章所称有机生命基础的长链。"
+    },
+    "col": [
+      "chemical valence｜化合价",
+      "valence electron｜价电子"
+    ],
+    "fam": [
+      "valent (adj.)",
+      "valency (n.)"
+    ],
+    "tip": "拉丁 valentia“能力”，来自 valere“有力量”：原子相结合的能力。",
+    "note": "本条是化学化合价。心理学里 valence 还可指情绪的正负倾向。valance 是窗帘上沿的短帷。inertness 只表示不反应，无严格反义词。"
+  },
+  "balsam": {
+    "us": "/ˈbɔlsəm/",
+    "syn": [
+      "resin",
+      "balm"
+    ],
+    "ant": [
+      "irritant"
+    ],
+    "ex": {
+      "en": "Healers applied balsam to the wound, relying on the fragrant resin described in several ancient medical texts.",
+      "zh": "医者把香膏敷在伤口上，依据的是若干古代医书中描述的那种芳香树脂。"
+    },
+    "col": [
+      "fragrant balsam｜芳香香脂",
+      "apply balsam｜涂抹香膏"
+    ],
+    "fam": [
+      "balsamic (adj.)"
+    ],
+    "tip": "希腊 balsamon，可能源自闪米特语，指香树脂；没有英语词缀。",
+    "note": "balsam 是香树脂或由其制成的香膏，也可指某些冷杉。balsamic vinegar 是香醋，不是药膏。irritant 只是刺激物对照，无严格反义词。"
+  },
+  "destitute": {
+    "us": "/ˈdɛstəˌtuːt/",
+    "syn": [
+      "impoverished",
+      "penniless"
+    ],
+    "ant": [
+      "affluent"
+    ],
+    "ex": {
+      "en": "The fire left the family destitute, without tools, seed, or a roof for the coming winter.",
+      "zh": "火灾使这家人一贫如洗，既没有工具和种子，也没有屋顶来度过即将来临的冬天。"
+    },
+    "col": [
+      "destitute family｜贫困的家庭",
+      "destitute of｜缺乏"
+    ],
+    "fam": [
+      "destitution (n.)"
+    ],
+    "tip": "拉丁 de- 加 statuere“安置”：被放到一无所有的境地。",
+    "note": "destitute 是极度贫困。destitute of 则是“毫无”，如 destitute of evidence。affluent 是富有。不要和 institute（设立）看混。"
+  },
+  "extraneous": {
+    "us": "/ɪkˈstreɪniəs/",
+    "syn": [
+      "irrelevant",
+      "external"
+    ],
+    "ant": [
+      "relevant"
+    ],
+    "ex": {
+      "en": "The judge instructed the jury to ignore extraneous remarks that had nothing to do with the charge.",
+      "zh": "法官指示陪审团不要理会那些与指控无关的话。"
+    },
+    "col": [
+      "extraneous information｜无关信息",
+      "extraneous detail｜不相干的细节"
+    ],
+    "fam": [
+      "extraneously (adv.)"
+    ],
+    "tip": "拉丁 extra“在外面”加 -aneous，原意是外来的。",
+    "note": "extraneous 既可指“无关的”，也可指“来自外部的”。relevant 对照的是相关性。intrinsic 是内在的，external 只是位置。"
+  },
+  "agglomeration": {
+    "us": "/əˌɡlɑməˈreɪʃən/",
+    "syn": [
+      "cluster",
+      "mass"
+    ],
+    "ant": [
+      "dispersion"
+    ],
+    "ex": {
+      "en": "The city began as an agglomeration of villages, each keeping its market until a single wall enclosed them.",
+      "zh": "这座城市起初是村庄的聚集体，各村保留自己的市场，直到一道城墙把它们围在一起。"
+    },
+    "col": [
+      "urban agglomeration｜城市集聚区",
+      "agglomeration of｜……的聚集"
+    ],
+    "fam": [
+      "agglomerate (v.)",
+      "agglomerate (n.)"
+    ],
+    "tip": "拉丁 ad- 加 glomus“线团、球”：聚成一团。",
+    "note": "agglomeration 是聚成一团或一堆。conglomeration 更强调杂七杂八地混在一起。dispersion 是散开。"
+  },
+  "reconcile": {
+    "us": "/ˈrɛkənˌsaɪl/",
+    "syn": [
+      "harmonize",
+      "settle"
+    ],
+    "ant": [
+      "estrange"
+    ],
+    "ex": {
+      "en": "The biographer tries to reconcile the statesman's public idealism with the private letters that reveal his ambition.",
+      "zh": "传记作者试图把这位政治家公开的理想主义与暴露其野心的私人信件调和起来。"
+    },
+    "col": [
+      "reconcile differences｜调和分歧",
+      "reconcile with｜与……和解"
+    ],
+    "fam": [
+      "reconciliation (n.)"
+    ],
+    "tip": "拉丁 re- 加 conciliare“使和睦、召集到一起”。",
+    "note": "reconcile 既可指使人重新和好，也可指使两种说法彼此相容。estrange 是使疏远。不要和 reconnoiter（侦察）相混。"
+  },
+  "inverse": {
+    "us": "/ɪnˈvɝs/",
+    "syn": [
+      "opposite",
+      "reversed"
+    ],
+    "ant": [
+      "direct"
+    ],
+    "ex": {
+      "en": "The graph shows an inverse relationship: as the price rose, the quantity demanded steadily fell.",
+      "zh": "图表显示一种相反关系：价格上升时，需求量就稳步下降。"
+    },
+    "col": [
+      "inverse relationship｜相反关系",
+      "inverse proportion｜反比"
+    ],
+    "fam": [
+      "invert (v.)",
+      "inversion (n.)"
+    ],
+    "tip": "拉丁 in-“反转”加 vertere“转动”，同根还有 reverse、convert。",
+    "note": "形容词 inverse 是相反或倒转的。reverse 更常作动词“颠倒”。direct proportion 与 inverse proportion 相对。重音常在第二音节。"
+  },
+  "dilute": {
+    "us": "/daɪˈluːt/",
+    "syn": [
+      "thin",
+      "weaken"
+    ],
+    "ant": [
+      "concentrate"
+    ],
+    "ex": {
+      "en": "Adding river water would dilute the brine and, the engineer warned, weaken its value as a preservative.",
+      "zh": "加入河水会稀释盐水，工程师警告说，这还会削弱它作为防腐剂的价值。"
+    },
+    "col": [
+      "dilute a solution｜稀释溶液",
+      "dilute the impact｜削弱影响"
+    ],
+    "fam": [
+      "dilution (n.)",
+      "diluent (n.)"
+    ],
+    "tip": "拉丁 di- 加 luere“洗”：加水冲淡。",
+    "note": "dilute 是稀释或削弱。dilate 是扩张，如瞳孔放大。concentrate 是浓缩或集中。"
+  },
+  "throng": {
+    "us": "/θrɔŋ/",
+    "syn": [
+      "crowd",
+      "multitude"
+    ],
+    "ant": [
+      "solitude"
+    ],
+    "ex": {
+      "en": "A throng filled the square at noon, waiting for the proclamation that would end the long siege.",
+      "zh": "中午，一大群人挤满广场，等待那份将结束长期围城的公告。"
+    },
+    "col": [
+      "a throng of｜一大群",
+      "dense throng｜密集的人群"
+    ],
+    "fam": [
+      "throng (v.)"
+    ],
+    "tip": "古英语 geþrang“拥挤的人群”，没有拉丁词缀。",
+    "note": "名词是人群，动词是蜂拥。不要和 thong（带子）相混。美式元音有的读 /ɔ/，有的接近 /ɑ/。solitude 是独处，无严格反义词。"
+  },
+  "preposterous": {
+    "us": "/prɪˈpɑstərəs/",
+    "syn": [
+      "absurd",
+      "ridiculous"
+    ],
+    "ant": [
+      "sensible"
+    ],
+    "ex": {
+      "en": "Critics dismissed the theory as preposterous because it required the moon to influence the tides of a teacup.",
+      "zh": "批评者认为这个理论荒谬，因为它居然要求月亮去影响一只茶杯里的潮汐。"
+    },
+    "col": [
+      "preposterous claim｜荒谬的主张",
+      "preposterous idea｜可笑的想法"
+    ],
+    "fam": [
+      "preposterously (adv.)"
+    ],
+    "tip": "拉丁 prae“在前”加 posterus“在后的”：前后颠倒，所以荒唐。",
+    "note": "preposterous 是荒唐得不值一驳。不要按字面理解成“在后面”，也不要和 prosperous（繁荣的）相混。"
+  }
+}
