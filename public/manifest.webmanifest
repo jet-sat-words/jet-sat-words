@@ -1,0 +1,13 @@
+{
+  "name": "Jet的SAT核心词",
+  "short_name": "SAT核心词",
+  "description": "160 个 List，1600 个 SAT 核心词。图鉴、星图与间隔重复。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0D1120",
+  "theme_color": "#0D1120",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

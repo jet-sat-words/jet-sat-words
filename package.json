@@ -1,0 +1,33 @@
+{
+  "name": "jet-sat-words",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Jet的SAT核心词：160 个 List、1600 个 SAT 核心词，带图鉴、星图和 FSRS 间隔重复。",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "node --import tsx --test src/**/*.test.ts",
+    "build:catalog": "node scripts/build-sat-catalog.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/fraunces": "^5.3.0",
+    "lucide-react": "^0.468.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "ts-fsrs": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "playwright": "^1.64.1",
+    "prettier": "^3.9.10",
+    "tsx": "^4.23.15",
+    "typescript": "~5.9.3",
+    "vite": "^6.4.1"
+  },
+  "private": true,
+  "license": "MIT"
+}
